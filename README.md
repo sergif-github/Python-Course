@@ -8,4 +8,4 @@ Python tiene su propio interprete por defecto llamado "Python iterpreter". Puede
 Los entornos de desarollo (IDEs) mas utilizados para desarrollar Python son: PyCharm, Spyder, Eclipse con el pluguin PyDev, Visual Studio Code y Jupyter Notebook. 
 Entre su gran cantidad de librerias destacan: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras y PyTorch.
 
-Esta repositorio utiliza python 3.9.7 y el IDE PyCharm.
+Esta repositorio utiliza Python 3.9.7 y el IDE PyCharm.
