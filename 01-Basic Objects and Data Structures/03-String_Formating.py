@@ -1,5 +1,5 @@
 # STRING FORMATING
-
+print('''STRING FORMATING''')
 print('''Formatting with placeholders''')
 a = "text1"
 b = "text2"
