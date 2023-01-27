@@ -18,7 +18,7 @@ b["key1"][0] -= 1
 print("My dict b and key1 associated index 0 value -1: ", b["key1"][0])
 a["new key"] = "new value"
 print("My dict a after adding a new key-value with a[\"newkey\"] = \"new value\": ", a)
-c = {'key1':{'nestkey':{'subnestkey':'value'}}}
+c = {'key1': {'nestkey': {'subnestkey': 'value'}}}
 print("My dict c that has 2 nested dictionaries: ", c["key1"], "\n")
 
 

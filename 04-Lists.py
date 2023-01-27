@@ -9,7 +9,7 @@ print("List indexing")
 print('''Use list_variable[index] to acces specific list elements starting from 0''')
 print("This is my list: ", a)
 print("First and last element: ", a[0], "", a[len(a)-1], "\n")
-print('''Grabing multiple elements with list_variable[:] ''')
+print('''Grabbing multiple elements with list_variable[:] ''')
 print("All list elements a[:] ", a[:])
 print("First element a[0] ", a[0])
 print("Last element a[-1] ", a[-1])
@@ -30,7 +30,7 @@ print("Using a*3: ", a*3, "\n")
 
 
 print('''List build-in methods''')
-print("Using len(a) to get list lenght: ", len(a))
+print("Using len(a) to get list length: ", len(a))
 a.append('new item')
 print("Using a.append(element) to append a new element at the end of the list: ", a)
 a.pop(2)
@@ -48,9 +48,9 @@ print("Using b.sort() to sort string list in alphabetical : ", b, "\n")
 
 
 print('''Nesting lists (Matrix)''')
-a = [1,2,3]
-b = [4,5,6]
-c = [7,8,9]
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = [7, 8, 9]
 print("This is my first list: ", a)
 print("This is my second list: ", b)
 print("This is my third list: ", c)
