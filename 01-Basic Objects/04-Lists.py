@@ -58,3 +58,55 @@ d = [a, b, c]
 print("Using new_list = [list1, list2, list3] my new nested list is: ", d, "and has", len(d), "elements\n")
 print("Using new_list[1] to acces first element", d[1])
 print("Using new_list[1][1] to acces first element of first nested list (matrix)", d[1][1])
+
+
+print('''Zip generates tuples by zipping up together two lists''')
+a = [10, 20, 30]
+b = [40, 50, 60]
+print("This is my first list: ", a)
+print("This is my second list: ", b)
+for item1, item2 in enumerate(zip(a,b)):
+    print('For this tuple, first item was {} and second item was {}'.format(item1,item2))
+print("This is my zipped list: ", list(zip(a, b)))
+print('\n')
+
+
+print('''In checks if an object is in a list''')
+print("This is my list: ", a)
+print("20 is in list", (20 in a))
+print('\n')
+
+
+print('''Not In checks if an object is not in a list''')
+print("This is my list: ", b)
+print("20 is not in list", (20 not in b))
+print('\n')
+
+
+print('''Max / Min gets maximum and minimum value in a list''')
+print("This is my list: ", a)
+print("Minimum is", min(a))
+print("Maximum value is", max(a))
+print('\n')
+
+
+print('''Not In checks if an object is not in a list''')
+print((20 not in b))
+print('\n')
+
+
+print('''Not In checks if an object is not in a list''')
+print((20 not in b))
+print('\n')
+
+print('''The range function generate a list of integers''')
+print("Generate a list of 10 integers from 0 to 10:", list(range(0, 11)))
+print("Generate a list of squares:", [x**2 for x in range(0, 11)])
+print("Generate a list of even numbers:", [x for x in range(11) if x % 2 == 0])
+print("Generate a list of even numbers(2):", list(range(0, 11, 2)))
+print('\n')
+
+print('''Enumerate keeps track of how many loops we have been through by creating a tuple (iteration number, value)''')
+for i, number in enumerate(list(range(0, 11))):
+    print("At index {} the number is {}".format(i, number))
+print('\n')
