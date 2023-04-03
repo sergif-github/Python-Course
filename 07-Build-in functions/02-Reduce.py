@@ -1,3 +1,6 @@
+# REDUCE
+print('''REDUCE''')
+
 from functools import reduce
 
 print('''Reduce() continually applies the function to the sequence. It then returns a single value.''')

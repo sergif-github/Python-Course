@@ -1,3 +1,6 @@
+# MAP
+print('''MAP''')
+
 print('''Map() is a built-in Python function that takes in two or more arguments (A function and one or more iterables) 
 and returns an iterator.''')
 print('''We will cast map() as a list to see the results immediately.''')

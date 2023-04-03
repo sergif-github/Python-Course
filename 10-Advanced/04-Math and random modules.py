@@ -1,3 +1,6 @@
+# MATH
+print('''MATH''')
+
 import math
 # help(math)
 

@@ -1,3 +1,6 @@
+# CODE TIMMING
+print('''CODE TIMMING''')
+
 import time
 
 

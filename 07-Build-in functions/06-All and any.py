@@ -1,3 +1,6 @@
+# ALL and ANY
+print('''ALL and ANY''')
+
 print('''All() and any() are built-in functions in Python that allow to conveniently check for boolean matching
  in an iterable.''')
 

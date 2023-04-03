@@ -1,3 +1,6 @@
+# ZIPPING FILES
+print('''ZIPPING FILES''')
+
 f = open("new_file.txt", 'w+')
 f.write("Here is some text")
 f.close()
