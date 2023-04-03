@@ -1,3 +1,6 @@
+# ADVANCED STRINGS
+print('''ADVANCED STRINGS''')
+
 s = "Hello world"
 
 print("Changing case")

@@ -1,3 +1,6 @@
+# FILES
+print('''FILES''')
+
 #Creating a file
 f = open('practice.txt', 'w+')
 f.write('test')

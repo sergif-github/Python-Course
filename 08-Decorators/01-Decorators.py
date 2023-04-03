@@ -1,3 +1,6 @@
+# DECORATORS
+print('''DECORATORS''')
+
 print('''Decorators are functions which modify the functionality of another function. They help to make code shorter''')
 print('''They are useful for web developers using Flask or Django''')
 

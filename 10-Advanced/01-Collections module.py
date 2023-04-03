@@ -1,3 +1,6 @@
+# COLLECTIONS
+print('''COLLECTIONS''')
+
 print("Collections is a built-in module that implements specialized alternative container data types alternatives")
 
 print("\nCounter is a dict subclass which helps count hashable objects.")

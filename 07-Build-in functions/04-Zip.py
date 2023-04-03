@@ -1,3 +1,6 @@
+# ZIP
+print('''ZIP''')
+
 print('''Zip() makes an iterator that aggregates elements from each of the iterables.''')
 print('''The iterator stops when the shortest input iterable is exhausted.''')
 

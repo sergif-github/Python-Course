@@ -1,3 +1,6 @@
+# FILTER
+print('''FILTER''')
+
 print('''Filter() filter out all the elements of an iterable, for which the function returns True.''')
 
 lst = list(range(20))

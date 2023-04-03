@@ -1,3 +1,6 @@
+# DEBUGGER
+print('''DEBUGGER''')
+
 import pdb
 
 print("pdb.set_trace() allow us to pause the code at the point of the trace and check if anything is wrong.")

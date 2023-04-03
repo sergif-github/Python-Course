@@ -1,3 +1,6 @@
+# GENERATORS and ITERATORS
+print('''GENERATORS and ITERATORS''')
+
 print("Generators allow us to generate as we go along, instead of holding everything in memory.")
 print("Generator functions can send back a value and then later resume to pick up where it left off")
 print("Using yield, we can define new generators that act like this, automatically suspending and resuming"
