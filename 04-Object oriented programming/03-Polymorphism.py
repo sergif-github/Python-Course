@@ -12,7 +12,7 @@ class Cat:
 
 
 c = Cat()
-print(d.speak())
+print(c.speak())
 print(c.speak())
 
 
