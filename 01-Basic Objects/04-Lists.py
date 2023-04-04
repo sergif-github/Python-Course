@@ -38,7 +38,7 @@ print("Using a.pop(2) to take off an existent element (second) identifyed by ind
 a.reverse()
 print("Using a.reverse() to reverse list: ", a)
 a = [10,5,2,7,8,1,0]
-b = ["a","z","b","j","o","r"]
+b = ["a", "z", "b", "j", "o", "r"]
 print("This is my first list: ", a)
 print("This is my second list: ", b)
 a.sort()
