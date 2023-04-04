@@ -1,4 +1,4 @@
-# Python-learn
+# Python-Course
 
 This repo is just for learning purpose.
 
