@@ -1,6 +1,7 @@
 # DICTIONARIES
 print('''DICTIONARIES''')
 print('''Dictionaries are paired sequences with associated keys and values''')
+
 a = {"key1": "value1", "key2": "value2"}
 b = {"key1": [1, 2, 3], "key2": [11, 12, 13]}
 print("My dict a: ", a)
