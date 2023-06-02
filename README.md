@@ -81,61 +81,174 @@ The course is organized into different modules, each covering a specific topic. 
 
 This Python course covers the following topics:
 
+1. **Module 1: Introduction to Python**
+   - Introduction and installing Python
+   - Running Python programs
+   - Basic syntax and indentation 
+   - Printing and commenting code
+
+2. **Module 2: Variables and Data Types**
+   - Variables and assignments
+   - Numeric data types (int, float)
+   - Strings and string manipulation
+   - Boolean data type
+   - Type conversion and casting
+   - Working with collections (lists, tuples, dictionaries, sets)
+
+3. **Module 3: Operators**
+   - Arithmetic operators
+   - Comparison operators
+   - Logical operators
+   - Assignment operators
+   - Bitwise operators
+   - Operator precedence
+
+4. **Module 4: Control Flow Statements**
+   - Conditional statements (if, else, elif)
+   - Nested conditionals
+   - Logical operators in conditionals
+   - The ternary operator
+
+5. **Module 5: Loops**
+   - While loop
+   - For loop
+   - Loop control statements (break, continue)
+   - Nested loops
+   - Looping through collections
+
+6. **Module 6: Methods and Functions**
+   - Defining and calling functions
+   - Function parameters and arguments
+   - Default arguments
+   - Variable scope and global keyword
+   - Returning values from functions
+   - Recursive functions
+
+7. **Module 7: Object-Oriented Programming**
+   - Introduction to classes and objects
+   - Class attributes and instance attributes
+   - Class methods and static methods
+   - Encapsulation and data abstraction
+   - Inheritance and polymorphism
+   - Special Python methods (dunder methods)
+
+8. **Module 8: Exception Handling**
+   - Understanding exceptions
+   - Handling exceptions using try-except blocks
+   - Catching specific exceptions
+   - The finally block
+   - Raising exceptions
+
+9. **Module 9: Modules and Packages**
+   - Introduction to modules
+   - Importing and using modules
+   - Creating and organizing packages
+   - Exploring the Python Standard Library
+
+10. **Module 10: File Handling and Manipulation**
+    - Reading and writing text files
+    - Working with file objects
+    - File modes and file paths
+    - CSV and JSON file processing
+    - Error handling with files
+
+11. **Module 11: Additional Python Modules and Libraries**
+    - Dates and times manipulation (datetime module)
+    - Mathematical operations (math module)
+    - Generating random numbers (random module)
+    - Working with images (Pillow module)
+    - Regular expressions (re module)
+    - Zip files (zipfile module)
+
+12. Module 12: Advanced Concepts**
+    - Decorators (function decorators and class decorators)
+    - Iterators and generators
+    - Iteration protocols
+    - Recursion
+    - Debugging with the debugger
+    - Code timing and optimization
+
+13. **Module 13: Testing and Debugging**
+    - Unit testing with unittest module
+    - Test-driven development
+    - Debugging techniques and strategies
+    - Handling common errors and debugging tools
+
+
 1. **Module 1: Basic Objects, Statements, and Data Types**
    - Introduction to Python
    - Variables and data types
-   - Operators and expressions
-   - Control flow statements (if-else, loops)
 
-2. **Module 2: Methods and Functions**
-   - Functions and function calls
-   - Parameters and return values
-   - Scope and namespaces
-   - Lambda functions
+2. **Module 2: Statements**
+   - Operators
+   - Control flow statements (if-else)
+   - Loops (for, while)
+
+3. **Module 3: Methods and functions**
+   - Methods and functions
+   - Arguments, parameters and return values
+   - Scope
+   - Lambda expressions
+
+4. **Module 4: Object-Oriented Programming (OOP) Principles**
+   - Classes and objects
+   - Inheritance 
+   - Polymorphism
+   - Special Python methods
+
+5. **Module 5: Modules and Packages**
+   - Introduction to modules and packages
+
+6. **Module 6: Exception Handling and unit testing**
+   - Understanding exceptions
+   - Handling exceptions using try-except
+   - Unit testing
+
+7. **Module 7: Built-in Functions**
+   - Exploring built-in functions
+
+8. **Module 8: Decorators**
+   - Introduction to decorators
+
+9. **Module 9: Generators and Iterators**
+   - Understanding generators and iterators
+
+10. **Module 10: Advanced basic objects**
+   - Exploring basic objects build-in functions
+
+11. **Module 11: Advanced modules**
+   - Collections
+   - File handling operations
+   - Date and time manipulation
+   - Math and random modules
+   - Working with debugger
+   - Regular expressions
+   - Code timing
+   - Zip files
+   - Images (Pillow module)
+
+TODO 
+   - Operators and expressions
    - Recursion
 
-3. **Module 3: Object-Oriented Programming (OOP) Principles**
-   - Introduction to OOP
-   - Classes and objects
-   - Inheritance and polymorphism
-   - Encapsulation and data abstraction
    - Class methods and static methods
+   - Encapsulation and data abstraction
 
-4. **Module 4: Modules and Packages**
-   - Introduction to modules and packages
    - Importing and using modules
    - Creating and organizing packages
    - Exploring the Python Standard Library 
 
-5. **Module 5: Exception Handling**
-   - Understanding exceptions
-   - Handling exceptions using try-except
    - Raising and catching specific exceptions
    - Clean-up actions with finally
+   - Unit testing refactor
 
-6. **Module 6: Built-in Functions and Standard Library**
-   - Exploring built-in functions
-   - Working with strings, lists, and dictionaries
-   - File handling operations
-   - Date and time manipulation
-
-7. **Module 7: Decorators**
-   - Introduction to decorators
    - Function decorators
    - Class decorators
    - Common use cases for decorators
 
-8. **Module 8: Generators and Iterators**
-   - Understanding generators and iterators
    - Iteration protocols
    - Creating generators with yield
    - Iterating over sequences and collections
-
-9. **Module 9: Working with Images**
-   - Reading and writing images
-   - Image manipulation techniques
-   - Basic image processing algorithms
-   - Creating image filters and effects
 
 You can start with the first module and progress through the course at your own pace. Make sure to read the lecture notes, 
 try out the examples, and complete the exercises to solidify your knowledge.
