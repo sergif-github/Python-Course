@@ -1,10 +1,14 @@
-## Module 3: Operators
+# Module 3: Operators
 
-### Part 2: Comparison Operators
+## Part 2: Comparison Operators
 
-Comparison operators are used to compare values and determine the relationship between them. Python provides several comparison operators for checking equality, inequality, greater than, less than, and more.
+Comparison operators are used to compare values and determine the relationship between them. 
 
-### 2.1 Equal to Operator (==)
+### 2.1 Comparison operators
+
+Python provides several comparison operators for checking equality, inequality, greater than, less than, and more.
+
+#### Equal to Operator (==)
 
 The equal to operator (`==`) checks if two values are equal. It returns `True` if the values are equal, and `False` otherwise. For example:
 
@@ -16,7 +20,7 @@ result = x == y  # 5 == 3 -> False
 print("Result:", result)  # Output: Result: False
 ```
 
-### 2.2 Not Equal to Operator (!=)
+#### Not Equal to Operator (!=)
 
 The not equal to operator (!=) checks if two values are not equal. It returns True if the values are not equal, and False if they are equal. For example:
 
@@ -28,7 +32,7 @@ result = x != y  # 5 != 3 -> True
 print("Result:", result)  # Output: Result: True
 ```
 
-### 2.3 Greater than Operator (>)
+#### Greater than Operator (>)
 
 The greater than operator (>) checks if the left operand is greater than the right operand. It returns True if the condition is true, and False otherwise. For example:
 
@@ -40,7 +44,7 @@ result = x > y  # 5 > 3 -> True
 print("Result:", result)  # Output: Result: True
 ```
 
-### 2.4 Less than Operator (<)
+#### Less than Operator (<)
 
 The less than operator (<) checks if the left operand is less than the right operand. It returns True if the condition is true, and False otherwise. For example:
 
@@ -52,7 +56,7 @@ result = x < y  # 5 < 3 -> False
 print("Result:", result)  # Output: Result: False
 ```
 
-### 2.5 Greater than or Equal to Operator (>=)
+####  Greater than or Equal to Operator (>=)
 
 The greater than or equal to operator (>=) checks if the left operand is greater than or equal to the right operand. It returns True if the condition is true, and False otherwise. For example:
 
@@ -64,7 +68,7 @@ result = x >= y  # 5 >= 3 -> True
 print("Result:", result)  # Output: Result: True
 ```
 
-### 2.6 Less than or Equal to Operator (<=)
+#### Less than or Equal to Operator (<=)
 
 The less than or equal to operator (<=) checks if the left operand is less than or equal to the right operand. It returns True if the condition is true, and False otherwise. For example:
 
@@ -76,6 +80,6 @@ result = x <= y  # 5 <= 3 -> False
 print("Result:", result)  # Output: Result: False
 ```
 
-### 2.7 Summary
+### 2.2 Summary
 
 In this part, you explored the comparison operators in Python, including the equal to, not equal to, greater than, less than, greater than or equal to, and less than or equal to operators. These operators are used to compare values and make logical decisions in your programs.

@@ -1,6 +1,6 @@
-## Module 5: Loops
+# Module 5: Loops
 
-### Part 3: Loop Control Statements (break, continue)
+## Part 3: Loop Control Statements (break, continue)
 
 In Python, you can use loop control statements to alter the normal flow of execution within loops. Two commonly used loop control statements are `break` and `continue`.
 

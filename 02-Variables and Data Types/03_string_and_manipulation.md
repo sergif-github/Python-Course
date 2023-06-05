@@ -2,7 +2,8 @@
 
 ## Part 3: Strings and String Manipulation
 
-In Python, a string is a sequence of characters enclosed in single quotes (`'`) or double quotes (`"`). It is used to represent text or a collection of characters. Strings are immutable, meaning that once they are created, their values cannot be changed.
+In Python, a string is a sequence of characters enclosed in single quotes (`'`) or double quotes (`"`). It is used to represent 
+text or a collection of characters. Strings are immutable, meaning that once they are created, their values cannot be changed.
 
 ### 3.1 Creating Strings
 
@@ -13,7 +14,8 @@ name = 'Alice'
 message = "Hello, World!"
 ```
 
-Both single quotes and double quotes can be used interchangeably to define strings. However, make sure to use the same type of quotes at the beginning and end of the string.
+Both single quotes and double quotes can be used interchangeably to define strings. However, make sure to use the same type 
+of quotes at the beginning and end of the string.
 
 ### 3.2 String Manipulation
 
@@ -65,7 +67,7 @@ substring = message[7:12]
 print("Substring:", substring)  # Output: Substring: World
 ```
 
-#### 3.2.5 String Methods
+### 3.3 String Methods
 
 Python provides a rich set of built-in string methods that allow you to manipulate strings. Here are some commonly used string methods:
 
@@ -89,6 +91,7 @@ words = message.split(", ")
 print("Words:", words)  # Output: Words: ['Hello', 'World!']
 ```
 
-#### 3.2.6 Summary
+### 3.4 Summary
 
-In this part, you explored strings and string manipulation in Python. Strings are used to represent text and can be manipulated using various operations and methods. Understanding string manipulation techniques is crucial for working with textual data in Python.
+In this part, you explored strings and string manipulation in Python. Strings are used to represent text and can be manipulated using
+various operations and methods. Understanding string manipulation techniques is crucial for working with textual data in Python.
