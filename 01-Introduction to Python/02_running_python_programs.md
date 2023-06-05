@@ -13,14 +13,16 @@ Python provides an interactive mode, commonly referred to as a Python shell or R
 which allows you to execute Python code line by line and see the immediate results. This mode is useful for testing code
 snippets, experimenting with language features, and performing quick calculations.
 
-Launching the Python Shell
+#### 2.1.1 Launching the Python Shell
+
 To launch the Python shell, open a command prompt or terminal and enter the python command. 
 This will start the Python interpreter and display a prompt indicating that you can enter Python code. 
 Depending on your system, you may need to use python3 instead of python to launch the Python 3 interpreter.
 `python`
 `python3`
 
-Executing Python Statements Interactively
+#### 2.1.2 Executing Python Statements Interactively
+
 Once the Python shell is launched, you can start entering Python statements and expressions, and the interpreter will 
 execute them immediately. For example, you can try entering simple mathematical expressions:
 
@@ -49,7 +51,8 @@ You can also define variables, create functions, and execute more complex code:
 16
 ```
 
-Exiting the Python Shell
+#### 2.1.3 Exiting the Python Shell
+
 To exit the Python shell, you can use the exit() function or press the appropriate key combination for your operating 
 system (such as Ctrl+Z or Ctrl+D).
 ```python
@@ -67,11 +70,11 @@ and get immediate feedback. It's a valuable tool for learning and exploring Pyth
 Python scripts are saved as text files with the .py extension and can be executed using various methods. 
 Running Python scripts allows you to execute a series of Python statements or functions stored in a file.
 
-Creating a Python Script
+#### 2.2.1 Creating a Python Script
 To create a Python script, you can use any text editor or integrated development environment (IDE) of your choice. 
 Open a new file and save it with a .py extension. For example, you can create a file named my_script.py.
 
-Executing Python Scripts from the Command Line
+#### 2.2.2 Executing Python Scripts from the Command Line
 Once you have created your Python script, you can execute it from the command line by invoking the Python interpreter 
 followed by the name of the script file. Open a command prompt or terminal, navigate to the directory where your script
 is located, and use the following command:
@@ -82,7 +85,7 @@ python my_script.py
 The Python interpreter will read the contents of the script file, execute the statements sequentially, and display the output 
 or perform any desired actions.
 
-Passing Command-Line Arguments to a Python Script
+#### 2.2.3 Passing Command-Line Arguments to a Python Script
 You can also pass command-line arguments to your Python script when executing it. Command-line arguments allow you to provide
 inputs or options to your script dynamically. To access the command-line arguments within your script, you can use the sys module,
 specifically the sys.argv list.
@@ -95,7 +98,7 @@ print(f"Hello, {name}!")
 ```
 
 To execute this script and pass the name "John" as an argument, use the following command:
-```python
+```shell
 python greet.py John
 ```
 
@@ -111,7 +114,7 @@ Integrated Development Environments (IDEs) provide a comprehensive environment f
 IDEs offer features such as code completion, debugging tools, and project management capabilities, making them popular among 
 developers for efficient and productive coding.
 
-Visual Studio Code (VS Code)
+#### 2.3.1 Visual Studio Code (VS Code)
 Visual Studio Code, commonly referred to as VS Code, is a popular open-source code editor developed by Microsoft. 
 It offers a wide range of extensions and a vibrant community, making it a powerful choice for Python development.
 
@@ -122,7 +125,7 @@ To set up VS Code for Python development:
 4. Begin writing Python code, and utilize the features provided by VS Code, such as IntelliSense (code completion), 
 code navigation, and integrated terminal.
 
-PyCharm
+#### 2.3.2 PyCharm
 PyCharm is a professional Python IDE developed by JetBrains. It offers a rich set of features specifically designed for Python development,
 including intelligent code completion, debugging tools, and support for various frameworks.
 
@@ -132,7 +135,7 @@ To get started with PyCharm:
 3. Write your Python code in PyCharm's code editor, and take advantage of features like code refactoring, built-in testing,
 4. and version control integration.
 
-Atom
+#### 2.3.3 Atom
 Atom is a customizable and hackable text editor developed by GitHub. It offers a vast ecosystem of packages and themes, 
 making it a popular choice for Python developers who prefer flexibility and extensibility.
 
@@ -210,7 +213,7 @@ Online Python interpreters provide a convenient way to write, execute, and test 
 without requiring any local installation or setup. They are useful for quick prototyping, learning Python concepts, 
 or sharing code snippets with others.
 
-Replit
+#### 2.5.1 Replit
 Replit is an online development environment that supports multiple programming languages, including Python. 
 It provides a full-featured code editor, a Python interpreter, and the ability to create and run Python programs within your browser.
 
@@ -222,7 +225,7 @@ Write your Python code in the Replit code editor.
 Click the "Run" button to execute your code and see the output in the console.
 Replit also offers collaborative features, allowing you to share your code with others and work on projects together in real-time.
 
-PythonAnywhere
+#### 2.5.2 PythonAnywhere
 PythonAnywhere is a web-based Python development and hosting environment. It provides a Python interpreter, a code editor, 
 and features like scheduling tasks and hosting web applications.
 
@@ -233,7 +236,7 @@ Once logged in, you can access the PythonAnywhere console, which provides an int
 Write and execute Python code directly in the console, or use the built-in code editor to create and run Python scripts.
 PythonAnywhere also allows you to host and deploy web applications written in Python, making it a versatile platform for Python development.
 
-Google Colab
+#### 2.5.3 Google Colab
 Google Colab is a cloud-based Jupyter notebook environment provided by Google. It offers a Python interpreter, code cells,
 and powerful collaboration features. It is particularly well-suited for data analysis, machine learning, and deep learning tasks.
 
@@ -248,50 +251,3 @@ Google Colab notebooks can be easily shared and collaborated on with others, mak
 
 These online Python interpreters provide a convenient and accessible way to write and execute Python code directly in your web browser.
 They are especially useful when you don't have access to a local development environment or want to quickly test Python code without any setup.
-
-### 2.6. Integrated Development Environment (IDE) Plugins
-
-Integrated Development Environments (IDEs) often support plugins or extensions that enhance the functionality and productivity 
-of the IDE for specific programming languages like Python. These plugins provide additional features, integrations, and tools 
-tailored to Python development.
-
-Examples of Python IDE Plugins
-Python Language Server Protocol (LSP): The Language Server Protocol provides a standardized way for IDEs to communicate with 
-language servers that offer advanced language-specific features. Python IDEs such as Visual Studio Code (VS Code), PyCharm, 
-and Atom have plugins that support the Python Language Server Protocol. These plugins provide features like code completion, 
-code navigation, and documentation lookup.
-
-Code Formatting: IDE plugins like autopep8 or Black provide code formatting capabilities that automatically reformat your 
-Python code according to specific style guidelines. These plugins help maintain consistent code formatting and improve code readability.
-
-Linters: Linter plugins such as pylint or flake8 analyze your code for potential errors, style violations, and best practices.
-They highlight issues in your code, suggest improvements, and help you write clean and maintainable Python code.
-
-Debugger Integration: IDEs like PyCharm and VS Code offer debugger plugins that allow you to set breakpoints, step through code, 
-inspect variables, and debug Python programs efficiently. These plugins provide a visual interface for debugging and help you 
-troubleshoot issues in your code.
-
-Testing Framework Integration: Plugins for testing frameworks like pytest, unittest, or nose provide integration with IDEs, 
-allowing you to run and debug your tests directly from the IDE. They provide test discovery, result visualization, and quick 
-navigation to test cases.
-
-Code Snippets: IDE plugins often support code snippet libraries that allow you to insert predefined code templates or commonly
-used code patterns with a few keystrokes. These snippets save time and promote consistency in your code.
-
-Installing and Managing IDE Plugins
-To install IDE plugins, you typically need to follow these steps:
-
-Open your IDE and navigate to the plugin or extension marketplace or settings.
-1. Search for the desired Python-related plugins.
-2. Install the plugin by following the provided instructions or clicking the install button.
-3. Once installed, the plugin's features and functionality will be available within your IDE.
-4. IDEs usually provide a plugin manager or extension marketplace where you can browse, install, and manage plugins 
-5. directly from the IDE's interface. Some IDEs also allow you to customize the plugins by adjusting their settings or installing 
-additional dependencies.
-
-By leveraging IDE plugins, you can enhance your Python development workflow, increase productivity, and access a range of specialized
-tools and features tailored to Python programming.
-
-Note: The availability and specific plugins may vary depending on the IDE you are using. It's always recommended to refer to the documentation
-or official resources for your IDE to explore and install the relevant Python plugins.
-

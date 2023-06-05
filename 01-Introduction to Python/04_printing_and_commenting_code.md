@@ -27,7 +27,8 @@ Name: Alice
 Age: 25
 ```
 
-You can concatenate multiple values or variables using the + operator or format the output using string formatting techniques. These methods allow you to create dynamic output based on the values of variables:
+You can concatenate multiple values or variables using the + operator or format the output using string formatting techniques. 
+These methods allow you to create dynamic output based on the values of variables:
 
 ```python
 x = 10

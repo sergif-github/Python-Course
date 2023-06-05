@@ -65,7 +65,7 @@ else:
     statement4
 ```
 
-### 3.3 Summary
+### 3.4 Summary
 
 Indentation defines the hierarchy and nesting of code blocks. It's important to ensure proper indentation to avoid syntax
 errors and accurately represent the desired program logic.

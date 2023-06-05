@@ -2,7 +2,8 @@
 
 ## Part 1: Variables and Assignments
 
-In Python, variables are used to store data values. A variable is like a container that holds a value, which can be of different types such as numbers, strings, or other objects. Assigning a value to a variable is known as variable assignment.
+In Python, variables are used to store data values. A variable is like a container that holds a value, which can be of different types such as numbers, 
+strings, or other objects. Assigning a value to a variable is known as variable assignment.
 
 ### 1.1 Variable Names
 
@@ -62,4 +63,5 @@ The print() function can take one or more arguments, separated by commas. It con
 
 ### 1.3 Summary
 
-In this part, you learned about variables, variable names, variable assignment, variable reassignment, and printing variables. Variables are fundamental in Python programming as they allow you to store and manipulate data dynamically.
+In this part, you learned about variables, variable names, variable assignment, variable reassignment, and printing variables. 
+Variables are fundamental in Python programming as they allow you to store and manipulate data dynamically.
