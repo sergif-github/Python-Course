@@ -1,6 +1,6 @@
-## Module 5: Loops
+# Module 5: Loops
 
-### Part 1: While Loop
+## Part 1: While Loop
 
 The `while` loop in Python allows you to repeatedly execute a block of code as long as a certain condition is true. It's used when you want to iterate over a block of code an unknown number of times until a specific condition is met. Here's the basic syntax of a `while` loop:
 
@@ -27,5 +27,6 @@ In this example, the while loop continues as long as the value of count is less 
 
 It's important to ensure that the condition inside the while loop eventually becomes false; otherwise, you may end up with an infinite loop, which can cause your program to hang or consume excessive resources. To avoid this, make sure that the condition is properly updated within the loop so that the termination condition is eventually met.
 
-### 1.1 Summary
+### Summary
+
 In this part, you learned about the while loop in Python. The while loop allows you to repeatedly execute a block of code as long as a certain condition is true. It's used when you want to iterate over a block of code an unknown number of times until a specific condition is met. Ensure that the condition eventually becomes false to avoid infinite loops.

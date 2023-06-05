@@ -1,6 +1,6 @@
-## Module 5: Loops
+# Module 5: Loops
 
-### Part 5: Looping Through Collections
+## Part 5: Looping Through Collections
 
 In Python, you can use loops to iterate through collections such as lists, tuples, strings, and dictionaries. This allows you to access 
 and process each element or key-value pair within the collection. Let's explore how to loop through different types of collections:
