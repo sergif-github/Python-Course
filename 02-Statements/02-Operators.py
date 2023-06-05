@@ -1,8 +1,0 @@
-# OPERATORS
-print('''OPERATORS''')
-
-
-
-
-
-
