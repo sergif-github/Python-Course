@@ -14,7 +14,8 @@ quantity = -10
 population = 1000000
 ```
 
-Python provides various arithmetic operations that can be performed on int values, such as addition, subtraction, multiplication, and division. These operations return results of type int when both operands are integers. For example:
+Python provides various arithmetic operations that can be performed on int values, such as addition, subtraction, multiplication, and division.
+These operations return results of type int when both operands are integers. For example:
 
 ```python
 x = 10
@@ -69,4 +70,5 @@ print("Result:", result)  # Output: Result: 3.3333333333333335
 ```
 
 ### 2.3 Summary
-In this part, you explored the int and float data types in Python. These data types are used to represent whole numbers and floating-point numbers, respectively. They support various arithmetic operations and can be used in mathematical calculations.
+In this part, you explored the int and float data types in Python. These data types are used to represent whole numbers and floating-point numbers,
+respectively. They support various arithmetic operations and can be used in mathematical calculations.

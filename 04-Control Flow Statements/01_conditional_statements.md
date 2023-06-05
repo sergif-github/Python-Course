@@ -1,6 +1,6 @@
-## Module 4: Conditional Statements
+# Module 4: Conditional Statements
 
-### Part 1: Conditional Statements (if, else, elif)
+## Part 1: Conditional Statements (if, else, elif)
 
 Conditional statements are used in Python to execute different blocks of code based on certain conditions. The most common conditional statements in Python are the `if`, `else`, and `elif` statements.
 

@@ -1,8 +1,10 @@
-## Module 3: Operators
+# Module 3: Operators
 
-### Part 6: Operator Precedence
+## Part 6: Operator Precedence
 
 Operator precedence determines the order in which operators are evaluated in an expression. When multiple operators are used in the same expression, the operator with higher precedence is evaluated first.
+
+### 6.1 Operator precedence
 
 Python follows a specific set of rules to determine operator precedence. Here are some key points to understand:
 
@@ -28,7 +30,7 @@ Here is a general overview of the operator precedence in Python:
 
 It's important to note that when in doubt about the order of evaluation, using parentheses is always a good practice to ensure the desired outcome.
 
-### 6.1 Example:
+Example:
 
 ```python
 result = 10 + 2 * 3  # Multiplication has higher precedence than addition

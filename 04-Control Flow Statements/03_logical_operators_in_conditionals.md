@@ -1,5 +1,6 @@
-## Module 4: Conditional Statements
-### Part 2: Nested Conditionals
+# Module 4: Conditional Statements
+
+## Part 2: Nested Conditionals
 
 Nested conditionals are conditional statements that are placed inside other conditional statements. They allow you to check multiple conditions and execute different blocks of code based on those conditions. Here's an example of nested conditionals:
 
@@ -22,6 +23,6 @@ Nested conditionals can have multiple levels depending on the complexity of the 
 
 Nested conditionals allow for more precise control over the flow of the program based on different conditions. However, it's essential to keep the code readable and maintainable by using proper indentation and avoiding excessive nesting.
 
-### 2.1 Summary
+### Summary
 
 In this part, you learned about nested conditionals in Python. Nested conditionals allow you to place conditional statements inside other conditional statements, enabling you to check multiple conditions and execute different blocks of code based on those conditions. Make sure to properly indent the code blocks to indicate the hierarchy of the conditionals and maintain readability.
