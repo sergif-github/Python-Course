@@ -119,7 +119,6 @@ This Python course covers the following topics:
 6. **Module 6: Methods and Functions**
    - Defining and calling functions
    - Function parameters and arguments
-   - Default arguments
    - Variable scope and global keyword
    - Returning values from functions
    - Recursive functions
@@ -136,11 +135,9 @@ This Python course covers the following topics:
    - Understanding exceptions
    - Handling exceptions using try-except blocks
    - Catching specific exceptions
-   - The finally block
    - Raising exceptions
 
 9. **Module 9: Modules and Packages**
-   - Introduction to modules
    - Importing and using modules
    - Creating and organizing packages
    - Exploring the Python Standard Library
