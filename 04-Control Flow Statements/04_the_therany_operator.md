@@ -1,6 +1,6 @@
-## Module 4: Conditional Statements
+# Module 4: Conditional Statements
 
-### Part 4: Ternary Operator
+## Part 4: Ternary Operator
 
 The ternary operator, also known as the conditional expression, provides a concise way to write simple conditional statements in Python. It allows you to evaluate a condition and return a value based on the result of the condition. The syntax of the ternary operator is as follows:
 
@@ -22,6 +22,6 @@ In this example, the ternary operator is used to assign a value to the variable 
 
 The ternary operator can be used to simplify the code and make it more readable in cases where you need to assign a value based on a simple condition. However, it's important to use it judiciously and avoid nesting multiple ternary operators, as it can make the code less understandable.
 
-### 4.1 Summary
+### Summary
 
 In this part, you learned about the ternary operator in Python. The ternary operator provides a concise way to write simple conditional statements and assign a value based on a condition. It can make the code more readable and compact in certain situations. However, it's important to use it sparingly and avoid excessive nesting to maintain code clarity.

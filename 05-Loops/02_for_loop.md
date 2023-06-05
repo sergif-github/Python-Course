@@ -1,6 +1,6 @@
-## Module 5: Loops
+# Module 5: Loops
 
-### Part 2: For Loop
+## Part 2: For Loop
 
 The `for` loop in Python is used to iterate over a sequence or iterable object, such as a list, tuple, string, or range. It allows you to execute a block of code for each item in the sequence. Here's the basic syntax of a `for` loop:
 
@@ -35,5 +35,6 @@ print("Loop finished")
 
 In this example, the range(5) function generates a sequence of numbers from 0 to 4. The for loop iterates over each number in the sequence, and the print statement prints the value of i. After printing all the numbers, the message "Loop finished" is printed.
 
-### 2.1 Summary
+### Summary
+
 In this part, you learned about the for loop in Python. The for loop allows you to iterate over a sequence or iterable object and execute a block of code for each item in the sequence. Use the item variable to access the value of each item in the loop. The range() function is often used to generate a sequence of numbers for iteration.

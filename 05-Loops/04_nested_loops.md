@@ -1,6 +1,6 @@
-## Module 5: Loops
+# Module 5: Loops
 
-### Part 4: Nested Loops
+## Part 4: Nested Loops
 
 In Python, you can nest loops within each other to create nested loops. A nested loop is a loop that is placed inside another loop. 
 This allows you to iterate over multiple levels of data structures or perform complex repetitive tasks. Here's an example of a nested loop:
@@ -34,7 +34,7 @@ cherry blue
 Nested loops can be nested to any level as per your requirement. However, it's important to consider the performance implications 
 of deeply nested loops, as they can result in a large number of iterations.
 
-### 4.1 Summary
+### Summary
 
 In this part, you learned about nested loops in Python. Nested loops allow you to iterate over multiple levels of data structures 
 or perform complex repetitive tasks. Be cautious with deeply nested loops to avoid potential performance issues.
