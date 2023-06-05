@@ -3,9 +3,34 @@
 Welcome to the Python Course repository! This repository is designed to provide a comprehensive Python programming course for beginners. 
 Whether you're new to programming or have some experience, this course will help you learn and improve your Python skills.
 
+**Happy coding and enjoy the Python course!**
+
+## Table of Contents
+- [Contributing](#contributing)
+- [Introduction](#about-python)
+- [Getting Started](#getting-started)
+- [Course Overview](#course-overview)
+- [Course Structure](#course-structure)
+
+## Contributing
+
+Support me to create more educational materials 
+
+Author: Sergi Felip Ribas
+<div style="padding-left: 20px; display: flex; align-items=center;">
+    <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:80%"></a><br/>
+    <a href="https://github.com/sergif-github"><img src="./Images/github_lg.png" alt="Github Logo" style="width:80%"></a><br/>
+    <a href="https://www.linkedin.com/in/sergifelipribas/"><img src="./Images/linkedin_lg.png" alt="Linkedin Logo" style="width:80%"></a><br/>
+</div>
+
+We welcome contributions to this Python course repository. If you find any issues, have suggestions for improvements, 
+or want to add new content, please feel free to open an issue. Your contributions will help make this course even better for future learners.
+
+## About Python
+
 Python is a programming language which is very close to human language and because of that it is easy to learn and use.
 Python is used by various industries and companies. It has been used to develop web applications, desktop applications,
-system adminstration, and machine learning libraries. Python is highly embraced language in the data science and machine learning community.
+system administration, and machine learning libraries. Python is highly embraced language in the data science and machine learning community.
 I hope this is enough to convince you to start learning Python. Python is eating the world and you are killing it before it eats you.
 
 Python is a high-level, interpreted, general-purpose, and cross-platform programming language. It was created by Guido van Rossum in 1989.
@@ -16,7 +41,7 @@ large number of available libraries and resources, and ease of learning.
 Python is an interpreted programming language. In this case we need an interpreter in charge of reading the source code,
 interpreting it and executing it. As opposed to compiled languages like C or C++ where code is translated into 
 machine code through a compiler before being executed. The interpreted language allows us more flexibility although it generally
-tends to be slower and less secure than the compiled language. Python has its own default interpreter called "Python iterpreter".
+tends to be slower and less secure than the compiled language. Python has its own default interpreter called "Python interpreter".
 
 Python can be executed from the command line and is the one used by different IDEs by default. Additionally, there are other interpreters
 such as IPython and Jupyter that provide more interactivity and "shell-like" and "notebook-like" environments to run Python code.
@@ -24,16 +49,27 @@ The development environments (IDEs) most used to develop Python are: PyCharm, Sp
 Visual Studio Code and Jupyter Notebook. Among its large number of libraries, the following stand out: NumPy, Pandas, 
 Matplotlib, Scikit-learn, TensorFlow, Keras and PyTorch.
 
-This repository uses Python 3.9.7 and the PyCharm IDE.
+## Getting Started
 
-Happy coding and enjoy the Python course!
+To get started with this Python course, you'll need the following prerequisites:
 
-## Table of Contents
+- A basic understanding of programming concepts (though no prior experience with Python is required)
+- Python installed on your local machine (preferably >= Python 3.6)
+- (Optional) An IDE such as PyCharm or Visual Studio Code to easy programming
 
-- [Course Overview](#course-overview)
-- [Getting Started](#getting-started)
-- [Course Structure](#course-structure)
-- [Contributing](#contributing)
+To install Python, you can download it from the official Python website at [python.org](https://www.python.org/) and follow the installation
+instructions specific to your operating system.
+
+To install PyCharm, you can download it from the official PyCharm website at [jetbrains.com](https://www.jetbrains.com/pycharm/) and follow the installation
+instructions specific to your operating system.
+
+Once you have Python installed, you can clone this repository to your local machine using the following command:
+
+```
+git clone https://github.com/sergif-github/python-course.git
+```
+
+This repository was created using Python 3.9.7 and the PyCharm IDE.
 
 ## Course Overview
 
@@ -41,16 +77,19 @@ This Python course is designed to introduce you to the fundamentals of programmi
 The course covers a wide range of topics, starting from the basics and gradually progressing to more advanced concepts.
 
 Here are some of the key topics covered in this course:
-
+- Introduction to Python
 - Basic objects, statements, and data types
+- Basic operators
+- Control flow statements
+- Loops
 - Methods and functions
 - Object-oriented programming (OOP) principles
-- Modules and packages
 - Exception handling
-- Built-in functions and standard library
-- Decorators
-- Generators and iterators
-- Working with images
+- Modules and packages
+- File handling
+- Additional Python modules and libraries
+- Advanced concepts
+- Testing and debugging
 
 The course is structured in a way that each topic builds upon the previous ones, providing a logical progression of learning. 
 Each topic includes theory explanations, practical examples, and exercises to reinforce your understanding.
@@ -59,21 +98,6 @@ The goal of this course is to cover foundational aspects of Python programming w
 basic data manipulation, and program organization.  By the end of this course, students should be able to start writing 
 useful Python programs on their own or be able to understand and modify Python code written by their coworkers.
 
-## Getting Started
-
-To get started with this Python course, you'll need the following prerequisites:
-
-- A basic understanding of programming concepts (though no prior experience with Python is required)
-- Python installed on your local machine (preferably >= Python 3.6)
-
-To install Python, you can visit the official Python website at [python.org](https://www.python.org/) and follow the installation
-instructions specific to your operating system.
-
-Once you have Python installed, you can clone this repository to your local machine using the following command:
-
-```
-git clone https://github.com/your-username/python-course.git
-```
 
 ## Course Structure
 
@@ -81,179 +105,97 @@ The course is organized into different modules, each covering a specific topic. 
 
 This Python course covers the following topics:
 
-1. **Module 1: Introduction to Python**
-   - Introduction and installing Python
-   - Running Python programs
-   - Basic syntax and indentation 
-   - Printing and commenting code
+1. **[Module 1: Introduction to Python](./01-Introduction%20to%20Python)**
+   - [Introduction and installing Python](./01-Introduction%20to%20Python/01_introduction_python.md)
+   - [Running Python programs](./01-Introduction%20to%20Python/02_running_python_programs.md)
+   - [Basic syntax and indentation](./01-Introduction%20to%20Python/03_basic_syntax_and_identation.md)
+   - [Printing and commenting code](./01-Introduction%20to%20Python/04_printing_and_commenting_code.md)
 
-2. **Module 2: Variables and Data Types**
-   - Variables and assignments
-   - Numeric data types (int, float)
-   - Strings and string manipulation
-   - Boolean data type
-   - Type conversion and casting
-   - Working with collections (lists, tuples, dictionaries, sets)
+2. **[Module 2: Variables and Data Types](./02-Variables%20and%20Data%20Types)**
+   - [Variables and assignments](./02-Variables%20and%20Data%20Types/01_variables_and_assignments.md)
+   - [Numeric data types (int, float)](./02-Variables%20and%20Data%20Types/02_numeric_data_types.md)
+   - [Strings and string manipulation](./02-Variables%20and%20Data%20Types/03_string_and_manipulation.md)
+   - [Boolean data type](./02-Variables%20and%20Data%20Types/04_boolean_data_types.md)
+   - [Type conversion and casting](./02-Variables%20and%20Data%20Types/05_type_conversion_and_casting.md)
+   - [Working with collections (lists, tuples, dictionaries, sets)](./02-Variables%20and%20Data%20Types/06_collections.md)
 
-3. **Module 3: Operators**
-   - Arithmetic operators
-   - Comparison operators
-   - Logical operators
-   - Assignment operators
-   - Bitwise operators
-   - Operator precedence
+3. **[Module 3: Operators](./03-Operators)**
+   - [Arithmetic operators](./03-Operators/01_arithmetic_operators.md)
+   - [Comparison operators](./03-Operators/02_comparison_operators.md)
+   - [Logical operators](./03-Operators/03_logical_operators.md)
+   - [Assignment operators](./03-Operators/04_assignment_operators.md)
+   - [Bitwise operators](./03-Operators/05_bitwise%20operators.md)
+   - [Operator precedence](./03-Operators/06_operator_precedence.md)
 
-4. **Module 4: Control Flow Statements**
-   - Conditional statements (if, else, elif)
-   - Nested conditionals
-   - Logical operators in conditionals
-   - The ternary operator
+4. **[Module 4: Control Flow Statements](./04-Control%20Flow%20Statements)**
+   - [Conditional statements (if, else, elif)](./04-Control%20Flow%20Statements/01_conditional_statements.md)
+   - [Nested conditionals](./04-Control%20Flow%20Statements/02_nested_conditionals.md)
+   - [Logical operators in conditionals](./04-Control%20Flow%20Statements/03_logical_operators_in_conditionals.md)
+   - [The ternary operator](./04-Control%20Flow%20Statements/04_the_therany_operator.md)
 
-5. **Module 5: Loops**
-   - While loop
-   - For loop
-   - Loop control statements (break, continue)
-   - Nested loops
-   - Looping through collections
+5. **[Module 5: Loops](./05-Loops)**
+   - [While loop](./05-Loops/01_while_loop.md)
+   - [For loop](./05-Loops/02_for_loop.md)
+   - [Loop control statements (break, continue)](./05-Loops/03_loop_control_statements.md)
+   - [Nested loops](./05-Loops/04_nested_loops.md)
+   - [Looping through collections](./05-Loops/05_looping_collections.md)
 
-6. **Module 6: Methods and Functions**
-   - Defining and calling functions
-   - Function parameters and arguments
-   - Default arguments
-   - Variable scope and global keyword
-   - Returning values from functions
-   - Recursive functions
+6. **[Module 6: Methods and Functions]**
+   - [Defining and calling functions]
+   - [Function parameters and arguments]
+   - [Default arguments]
+   - [Variable scope and global keyword]
+   - [Returning values from functions]
+   - [Recursive functions]
 
-7. **Module 7: Object-Oriented Programming**
-   - Introduction to classes and objects
-   - Class attributes and instance attributes
-   - Class methods and static methods
-   - Encapsulation and data abstraction
-   - Inheritance and polymorphism
-   - Special Python methods (dunder methods)
+7. **[Module 7: Object-Oriented Programming]**
+   - [Introduction to classes and objects]
+   - [Class attributes and instance attributes]
+   - [Class methods and static methods]
+   - [Encapsulation and data abstraction]
+   - [Inheritance and polymorphism]
+   - [Special Python methods (dunder methods)]
 
-8. **Module 8: Exception Handling**
-   - Understanding exceptions
-   - Handling exceptions using try-except blocks
-   - Catching specific exceptions
-   - The finally block
-   - Raising exceptions
+8. **[Module 8: Exception Handling]**
+   - [Understanding exceptions]
+   - [Handling exceptions using try-except blocks]
+   - [Catching specific exceptions]
+   - [The finally block]
+   - [Raising exceptions]
 
-9. **Module 9: Modules and Packages**
-   - Introduction to modules
-   - Importing and using modules
-   - Creating and organizing packages
-   - Exploring the Python Standard Library
+9. **[Module 9: Modules and Packages]**
+   - [Introduction to modules]
+   - [Importing and using modules]
+   - [Creating and organizing packages]
+   - [Exploring the Python Standard Library](./09-Modules%20and%20Packages/04_python_standard_library.md)
 
-10. **Module 10: File Handling and Manipulation**
-    - Reading and writing text files
-    - Working with file objects
-    - File modes and file paths
-    - CSV and JSON file processing
-    - Error handling with files
+10. **[Module 10: File Handling and Manipulation](./10-File%20Handling%20and%20Manipulation)**
+    - [Reading and writing text files](./10-File%20Handling%20and%20Manipulation/01_reading_and_writing_files.md)
+    - [Working with file objects](./10-File%20Handling%20and%20Manipulation/02_working_with_file_objects.md)
+    - [File modes and file paths](./10-File%20Handling%20and%20Manipulation/03_csv_and_json_files.md)
+    - [CSV and JSON file processing](./10-File%20Handling%20and%20Manipulation/04_file_modes_and_paths.md)
+    - [Error handling with files](./10-File%20Handling%20and%20Manipulation/05_error_handling_with_files.md)
 
-11. **Module 11: Additional Python Modules and Libraries**
-    - Dates and times manipulation (datetime module)
-    - Mathematical operations (math module)
-    - Generating random numbers (random module)
-    - Working with images (Pillow module)
-    - Regular expressions (re module)
-    - Zip files (zipfile module)
+11. **[Module 11: Additional Python Modules and Libraries](./11-Additional%20Python%20Modules%20and%20Libraries)**
+    - [Dates and times manipulation (datetime module)](./11-Additional%20Python%20Modules%20and%20Libraries/01_datetime_module.md)
+    - [Mathematical operations (math module)](./11-Additional%20Python%20Modules%20and%20Libraries/02_math_module.md)
+    - [Generating random numbers (random module)](./11-Additional%20Python%20Modules%20and%20Libraries/03_random_module.md)
+    - [Working with images (Pillow module)](./11-Additional%20Python%20Modules%20and%20Libraries/04_pillow_module.md)
+    - [Zip files (zipfile module)](./11-Additional%20Python%20Modules%20and%20Libraries/05_zipfile_module.md)
+    - [Regular expressions (re module)](./11-Additional%20Python%20Modules%20and%20Libraries/06_re_module.md)
 
-12. Module 12: Advanced Concepts**
-    - Decorators (function decorators and class decorators)
-    - Iterators and generators
-    - Iteration protocols
-    - Recursion
-    - Debugging with the debugger
-    - Code timing and optimization
+12. **[Module 12: Advanced Concepts](./12-Advanced%20Concepts)**
+    - [Decorators (function decorators and class decorators)](./12-Advanced%20Concepts/01_decorators.md)
+    - [Iterators and generators](./12-Advanced%20Concepts/02_iterators_and_generators.md)
+    - [Recursion](./12-Advanced%20Concepts/03_recursion.md)
+    - [Debugging with the debugger](./12-Advanced%20Concepts/03_recursion.md)
+    - [Code timing and optimization](./12-Advanced%20Concepts/04_debugging.md)
 
-13. **Module 13: Testing and Debugging**
-    - Unit testing with unittest module
-    - Test-driven development
-    - Debugging techniques and strategies
-    - Handling common errors and debugging tools
-
-
-1. **Module 1: Basic Objects, Statements, and Data Types**
-   - Introduction to Python
-   - Variables and data types
-
-2. **Module 2: Statements**
-   - Operators
-   - Control flow statements (if-else)
-   - Loops (for, while)
-
-3. **Module 3: Methods and functions**
-   - Methods and functions
-   - Arguments, parameters and return values
-   - Scope
-   - Lambda expressions
-
-4. **Module 4: Object-Oriented Programming (OOP) Principles**
-   - Classes and objects
-   - Inheritance 
-   - Polymorphism
-   - Special Python methods
-
-5. **Module 5: Modules and Packages**
-   - Introduction to modules and packages
-
-6. **Module 6: Exception Handling and unit testing**
-   - Understanding exceptions
-   - Handling exceptions using try-except
-   - Unit testing
-
-7. **Module 7: Built-in Functions**
-   - Exploring built-in functions
-
-8. **Module 8: Decorators**
-   - Introduction to decorators
-
-9. **Module 9: Generators and Iterators**
-   - Understanding generators and iterators
-
-10. **Module 10: Advanced basic objects**
-   - Exploring basic objects build-in functions
-
-11. **Module 11: Advanced modules**
-   - Collections
-   - File handling operations
-   - Date and time manipulation
-   - Math and random modules
-   - Working with debugger
-   - Regular expressions
-   - Code timing
-   - Zip files
-   - Images (Pillow module)
-
-TODO 
-   - Operators and expressions
-   - Recursion
-
-   - Class methods and static methods
-   - Encapsulation and data abstraction
-
-   - Importing and using modules
-   - Creating and organizing packages
-   - Exploring the Python Standard Library 
-
-   - Raising and catching specific exceptions
-   - Clean-up actions with finally
-   - Unit testing refactor
-
-   - Function decorators
-   - Class decorators
-   - Common use cases for decorators
-
-   - Iteration protocols
-   - Creating generators with yield
-   - Iterating over sequences and collections
+13. **[Module 13: Testing and Debugging](./13-Testing%20and%20Debugging)**
+    - [Unit testing with unittest module](./13-Testing%20and%20Debugging/01_unitest_module.md)
+    - [Test-driven development](./13-Testing%20and%20Debugging/02_test_driven_development.md)
+    - [Debugging techniques and strategies](./13-Testing%20and%20Debugging/03_debugging_techniques_and_strategies.md)
+    - [Handling common errors](./13-Testing%20and%20Debugging/04_handling_common_errors.md)
 
 You can start with the first module and progress through the course at your own pace. Make sure to read the lecture notes, 
 try out the examples, and complete the exercises to solidify your knowledge.
-
-
-## Contributing
-We welcome contributions to this Python course repository. If you find any issues, have suggestions for improvements, 
-or want to add new content, please feel free to open an issue. Your contributions will help make this course even better for future learners.
