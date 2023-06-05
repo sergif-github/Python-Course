@@ -1,12 +1,12 @@
-## Module 7: Object-Oriented Programming
+# Module 7: Object-Oriented Programming
 
-### Part 1: Introduction to Classes and Objects
+## Part 1: Introduction to Classes and Objects
 
 Object-oriented programming (OOP) is a programming paradigm that organizes code into objects, which are instances of classes.
 Classes define the structure and behavior of objects, and objects are used to interact with and manipulate data. 
 Let's explore the fundamentals of classes and objects in Python:
 
-#### 1.1 Classes and Objects
+### 1.1 Classes and Objects
 
 In Python, a class is a blueprint for creating objects. It defines the properties and methods that objects of that class 
 will have. Objects, on the other hand, are instances of a class. They represent specific entities or concepts in your program.
@@ -31,10 +31,10 @@ the object using the values passed as arguments. The drive() method is a behavio
 the object to perform the action of driving. We create an instance of the Car class called car1, passing the brand "Toyota"
 and the model "Camry" as arguments. Finally, we call the drive() method on the car1 object, which prints the driving message.
 
-#### 1.2 Encapsulation and Abstraction
+### 1.2 Encapsulation and Abstraction
 
 OOP provides two important principles: encapsulation and abstraction. Encapsulation refers to the bundling of data and methods within a class. It allows us to control the access to the internal state of an object. Abstraction, on the other hand, focuses on exposing only essential information and hiding unnecessary details. It allows us to create more understandable and maintainable code.
 
-#### 1.3 Summary
+### 1.3 Summary
 
 In this part, you learned the basics of classes and objects in Python. Classes serve as blueprints for creating objects, which are instances of those classes. Objects encapsulate data and behavior, allowing us to interact with and manipulate data in a structured way. OOP promotes encapsulation and abstraction, which improve code organization, readability, and maintainability.

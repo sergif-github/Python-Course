@@ -1,12 +1,12 @@
-## Module 9: Modules and Packages
+# Module 9: Modules and Packages
 
-### Part 1: Introduction to Modules
+## Part 1: Introduction to Modules
 
 In Python, a module is a file containing Python code that defines functions, classes, and variables. Modules provide a way
 to organize and reuse code, making it easier to manage large programs and collaborate with others. By importing modules, 
 you can access the functionality defined within them and leverage their capabilities in your own code.
 
-#### 1.1 Using Modules
+### 1.1 Using Modules
 
 To use a module in your Python program, you need to import it first. Python provides several ways to import modules:
 
@@ -40,21 +40,21 @@ useful to provide shorter or more meaningful names. For example:
 
   With this import statement, you can use `m.sqrt()` instead of `math.sqrt()`.
 
-#### 1.2 Standard Library Modules
+### 1.2 Standard Library Modules
 
 Python comes with a rich set of standard library modules that provide a wide range of functionality for various tasks. 
 These modules are included with Python and can be readily used without the need for additional installation. Some commonly used 
 standard library modules include `random`, `datetime`, `os`, and `csv`. You can explore the full list of available standard 
 library modules in the Python documentation.
 
-#### 1.3 Third-Party Modules
+### 1.3 Third-Party Modules
 
 In addition to the standard library modules, Python has a vast ecosystem of third-party modules that can be installed and 
 used in your projects. Third-party modules are created by the Python community and offer additional functionality for specific 
 purposes such as web development, data analysis, machine learning, and more. Some popular third-party modules include `numpy`, 
 `pandas`, `matplotlib`, and `requests`. These modules can be installed using package managers like `pip` or `conda`.
 
-#### 1.4 Summary
+### 1.4 Summary
 
 Modules are an essential part of Python programming, allowing you to organize and reuse code. By importing modules, you can 
 access functions, classes, and variables defined in them, making it easier to leverage existing functionality and build more 

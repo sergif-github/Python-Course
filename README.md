@@ -140,34 +140,31 @@ This Python course covers the following topics:
    - [Nested loops](./05-Loops/04_nested_loops.md)
    - [Looping through collections](./05-Loops/05_looping_collections.md)
 
-6. **[Module 6: Methods and Functions]**
-   - [Defining and calling functions]
-   - [Function parameters and arguments]
-   - [Default arguments]
-   - [Variable scope and global keyword]
-   - [Returning values from functions]
-   - [Recursive functions]
+6. **[Module 6: Methods and Functions](./06-Methods%20and%20Functions)**
+   - [Defining and calling functions](./06-Methods%20and%20Functions/01_define_and_call_functions.md)
+   - [Function parameters and arguments](./06-Methods%20and%20Functions/02_parameters_and_arguments.md)
+   - [Variable scope and global keyword](./06-Methods%20and%20Functions/03_scope_and_global_keyword.md)
+   - [Returning values from functions](./06-Methods%20and%20Functions/04_return_values.md)
+   - [Recursive functions](./06-Methods%20and%20Functions/05_recursive_functions.md)
 
-7. **[Module 7: Object-Oriented Programming]**
-   - [Introduction to classes and objects]
-   - [Class attributes and instance attributes]
-   - [Class methods and static methods]
-   - [Encapsulation and data abstraction]
-   - [Inheritance and polymorphism]
-   - [Special Python methods (dunder methods)]
+7. **[Module 7: Object-Oriented Programming](./07-Object-Oriented%20Programming)**
+   - [Introduction to classes and objects](07-Object-Oriented%20Programming/01_introduction.md)
+   - [Class attributes and instance attributes](./07-Object-Oriented%20Programming/02_class_atributes_and_instance_atributes.md)
+   - [Class methods and static methods](./07-Object-Oriented%20Programming/03_class_methods_and_data_abstraction.md)
+   - [Encapsulation and data abstraction](./07-Object-Oriented%20Programming/04_encapsulation_and_data_abstraction.md)
+   - [Inheritance and polymorphism](./07-Object-Oriented%20Programming/05_inheritance_and_polymorphism.md)
+   - [Special Python methods (dunder methods)](./07-Object-Oriented%20Programming/06_special_python_methods.md)
 
-8. **[Module 8: Exception Handling]**
-   - [Understanding exceptions]
-   - [Handling exceptions using try-except blocks]
-   - [Catching specific exceptions]
-   - [The finally block]
-   - [Raising exceptions]
+8. **[Module 8: Exception Handling](./08-Exception%20Handling)**
+   - [Understanding exceptions](./08-Exception%20Handling/01_understanding_exceptions.md)
+   - [Handling exceptions using try-except blocks](./08-Exception%20Handling/02_handling_exceptions_using_try-except_block.md)
+   - [Catching specific exceptions](./08-Exception%20Handling/03_catching_specific_exceptions.md)
+   - [Raising exceptions](./08-Exception%20Handling/04_raising_exceptions.md)
 
-9. **[Module 9: Modules and Packages]**
-   - [Introduction to modules]
-   - [Importing and using modules]
-   - [Creating and organizing packages]
-   - [Exploring the Python Standard Library](./09-Modules%20and%20Packages/04_python_standard_library.md)
+9. **[Module 9: Modules and Packages](./09-Modules%20and%20Packages)**
+   - [Importing and using modules](./09-Modules%20and%20Packages/01_importing_and_using_modules.md)
+   - [Creating and organizing packages](./09-Modules%20and%20Packages/02_creating_and_organizing_packages.md)
+   - [Exploring the Python Standard Library](./09-Modules%20and%20Packages/03_python_standard_library.md)
 
 10. **[Module 10: File Handling and Manipulation](./10-File%20Handling%20and%20Manipulation)**
     - [Reading and writing text files](./10-File%20Handling%20and%20Manipulation/01_reading_and_writing_files.md)
