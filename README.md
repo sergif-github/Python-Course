@@ -171,8 +171,8 @@ Inside the repository, you'll find the following structure:
 **[Module 9: File Handling and Manipulation](./09-File%20Handling%20and%20Manipulation)**
 - [Reading and writing text files](./09-File%20Handling%20and%20Manipulation/01_reading_and_writing_files.md)
 - [Working with file objects](./09-File%20Handling%20and%20Manipulation/02_working_with_file_objects.md)
-- [File modes and file paths](./09-File%20Handling%20and%20Manipulation/03_csv_and_json_files.md)
-- [CSV and JSON file processing](./09-File%20Handling%20and%20Manipulation/04_file_modes_and_paths.md)
+- [File modes and file paths](./09-File%20Handling%20and%20Manipulation/04_csv_and_json_files.md)
+- [CSV and JSON file processing](./09-File%20Handling%20and%20Manipulation/03_file_modes_and_paths.md)
 - [Error handling with files](./09-File%20Handling%20and%20Manipulation/05_error_handling_with_files.md)
 
 **[Module 10: Additional Python Modules and Libraries](./10-Additional%20Python%20Modules%20and%20Libraries)**

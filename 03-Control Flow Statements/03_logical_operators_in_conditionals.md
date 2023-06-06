@@ -1,6 +1,6 @@
 # Module 3: Conditional Statements
 
-## Part 2: Nested Conditionals
+## Part 3: Nested Conditionals
 
 Nested conditionals are conditional statements that are placed inside other conditional statements. They allow you to check multiple conditions and execute different blocks of code based on those conditions. Here's an example of nested conditionals:
 
