@@ -9,6 +9,7 @@ tools to help you diagnose and fix issues more efficiently.
 ### 4.1 Common Errors
 
 #### Syntax Errors: 
+
 Syntax errors occur when the code violates the rules of the programming language. These errors prevent the code from running and are usually highlighted by the code editor or compiler. Examples include missing parentheses, incorrect indentation, or misspelled keywords.
 
 #### Name Errors:
