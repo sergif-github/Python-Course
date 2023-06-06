@@ -17,7 +17,7 @@ x = 5
 y = 3
 ```
 
-#### Compound Assignment Operators
+### 4.2 Compound Assignment Operators
 
 Python provides compound assignment operators that combine an arithmetic or bitwise operation with the assignment operation. They allow you to perform an operation and update the value of the variable in one step.
 
@@ -91,6 +91,6 @@ x //= 3  # x = x // 3 -> 10 // 3 -> 3
 print("Result:", x)  # Output: Result: 3
 ```
 
-### 4.2 Summary
+### 4.3 Summary
 
 In this part, you learned about assignment operators in Python, including the simple assignment operator (=) and compound assignment operators (+=, -=, *=, /=, %=, **=, //=). These operators are useful for performing an operation and assigning the result to a variable in a single step.

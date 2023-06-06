@@ -33,6 +33,7 @@ print("Quotient:", quotient)  # Output: Quotient: 3.3333333333333335
 ```
 
 ### 2.2 Floating-Point (float) Data Type
+
 The float data type represents numbers with fractional parts. It can store both small and large floating-point numbers. For example:
 
 ```python
