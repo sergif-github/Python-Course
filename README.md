@@ -102,9 +102,9 @@ useful Python programs on their own or be able to understand and modify Python c
 
 ## Course Structure
 
-The course is organized into different modules, each covering a specific topic. Inside the repository, you'll find the following structure:
+The course is organized into different modules, each covering a specific topic. 
 
-This Python course covers the following topics:
+Inside the repository, you'll find the following structure:
 
 **[Module 0: Introduction to Python](./00-Introduction%20to%20Python)**
 - [Introduction and installing Python](./00-Introduction%20to%20Python/01_introduction_python.md)
