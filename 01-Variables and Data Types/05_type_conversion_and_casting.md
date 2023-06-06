@@ -22,10 +22,11 @@ In this example, the integer x is implicitly converted to a float to perform the
 
 You can explicitly cast values from one data type to another using casting functions. Python provides several built-in functions for type casting, including:
 
-int() - converts a value to an integer
-float() - converts a value to a float
-str() - converts a value to a string
-bool() - converts a value to a Boolean
+- int(): Converts a value to an integer
+- float(): Converts a value to a float
+- str(): Converts a value to a string
+- bool(): Converts a value to a Boolean
+
 For example:
 
 ```python

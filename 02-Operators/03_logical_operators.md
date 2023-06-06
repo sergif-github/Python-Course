@@ -45,16 +45,6 @@ result = not x  # not True -> False
 print("Result:", result)  # Output: Result: False
 ```
 
-#### Operator Precedence
-
-When using multiple logical operators together, it's important to understand their precedence. The not operator has the highest precedence, followed by and, and then or. However, it's always a good practice to use parentheses to clarify the intended order of operations.
-
-```python
-result = (x > y) and (y < z) or (x == z)
-```
-
-In the above example, the comparison (x > y) and (y < z) is evaluated first due to the parentheses, followed by the or operation with (x == z).
-
 ### 3.2 Summary
 
 In this part, you explored the logical operators in Python, including the logical AND (and), logical OR (or), and logical NOT (not) operators. These operators are useful for combining conditions and making decisions based on logical expressions.

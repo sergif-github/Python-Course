@@ -2,7 +2,7 @@
 
 ## Part 4: Printing and commenting code
 
-### 4.1. Printing Output with print()
+### 4.1. Printing output with print()
 
 In Python, the print() function is used to display output on the console or terminal. It allows you to print text, variables,
 and expressions. The output is typically displayed as a new line, but you can customize the behavior using different arguments.
