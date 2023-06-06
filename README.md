@@ -21,13 +21,11 @@ Support me to create more educational materials
 
 Author: Sergi Felip Ribas
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin: 20px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:10%"></a>
-        <a href="https://github.com/sergif-github"><img src="./Images/github_lg.png" alt="Github Logo" style="width:10%"></a>
-        <a href="https://www.linkedin.com/in/sergifelipribas/"><img src="./Images/linkedin_lg.png" alt="Linkedin Logo" style="width:10%"></a>
-    </div>
-</div>
+<p align="center" margin="20px">
+    <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:10%"></a>
+    <a href="https://github.com/sergif-github"><img src="./Images/github_lg.png" alt="Github Logo" style="width:10%"></a>
+    <a href="https://www.linkedin.com/in/sergifelipribas/"><img src="./Images/linkedin_lg.png" alt="Linkedin Logo" style="width:10%"></a>
+</p>
 
 ## About Python
 
