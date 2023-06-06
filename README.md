@@ -120,13 +120,13 @@ This Python course covers the following topics:
    - [Type conversion and casting](./02-Variables%20and%20Data%20Types/05_type_conversion_and_casting.md)
    - [Working with collections (lists, tuples, dictionaries, sets)](./02-Variables%20and%20Data%20Types/06_collections.md)
 
-3. **[Module 3: Operators](./03-Operators)**
-   - [Arithmetic operators](./03-Operators/01_arithmetic_operators.md)
-   - [Comparison operators](./03-Operators/02_comparison_operators.md)
-   - [Logical operators](./03-Operators/03_logical_operators.md)
-   - [Assignment operators](./03-Operators/04_assignment_operators.md)
-   - [Bitwise operators](./03-Operators/05_bitwise%20operators.md)
-   - [Operator precedence](./03-Operators/06_operator_precedence.md)
+3. **[Module 3: Operators](./02-Operators)**
+   - [Arithmetic operators](02-Operators/01_arithmetic_operators.md)
+   - [Comparison operators](02-Operators/02_comparison_operators.md)
+   - [Logical operators](02-Operators/03_logical_operators.md)
+   - [Assignment operators](02-Operators/04_assignment_operators.md)
+   - [Bitwise operators](02-Operators/05_bitwise%20operators.md)
+   - [Operator precedence](02-Operators/06_operator_precedence.md)
 
 4. **[Module 4: Control Flow Statements](./04-Control%20Flow%20Statements)**
    - [Conditional statements (if, else, elif)](./04-Control%20Flow%20Statements/01_conditional_statements.md)
@@ -134,12 +134,12 @@ This Python course covers the following topics:
    - [Logical operators in conditionals](./04-Control%20Flow%20Statements/03_logical_operators_in_conditionals.md)
    - [The ternary operator](./04-Control%20Flow%20Statements/04_the_therany_operator.md)
 
-5. **[Module 5: Loops](./05-Loops)**
-   - [While loop](./05-Loops/01_while_loop.md)
-   - [For loop](./05-Loops/02_for_loop.md)
-   - [Loop control statements (break, continue)](./05-Loops/03_loop_control_statements.md)
-   - [Nested loops](./05-Loops/04_nested_loops.md)
-   - [Looping through collections](./05-Loops/05_looping_collections.md)
+5. **[Module 5: Loops](./04-Loops)**
+   - [While loop](04-Loops/01_while_loop.md)
+   - [For loop](04-Loops/02_for_loop.md)
+   - [Loop control statements (break, continue)](04-Loops/03_loop_control_statements.md)
+   - [Nested loops](04-Loops/04_nested_loops.md)
+   - [Looping through collections](04-Loops/05_looping_collections.md)
 
 6. **[Module 6: Methods and Functions](./06-Methods%20and%20Functions)**
    - [Defining and calling functions](./06-Methods%20and%20Functions/01_define_and_call_functions.md)
