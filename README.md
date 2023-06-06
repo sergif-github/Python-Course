@@ -17,11 +17,11 @@ Whether you're new to programming or have some experience, this course will help
 Support me to create more educational materials
 Author: Sergi Felip Ribas
 
-<p float="left">
-    <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:10%"></a><br/>
-    <a href="https://github.com/sergif-github"><img src="./Images/github_lg.png" alt="Github Logo" style="width:10%"></a><br/>
-    <a href="https://www.linkedin.com/in/sergifelipribas/"><img src="./Images/linkedin_lg.png" alt="Linkedin Logo" style="width:10%"></a><br/>
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:10%"></a>
+    <a href="https://github.com/sergif-github"><img src="./Images/github_lg.png" alt="Github Logo" style="width:10%"></a>
+    <a href="https://www.linkedin.com/in/sergifelipribas/"><img src="./Images/linkedin_lg.png" alt="Linkedin Logo" style="width:10%"></a>
+</div>
 
 We welcome contributions to this Python course repository. If you find any issues, have suggestions for improvements, 
 or want to add new content, please feel free to open an issue. Your contributions will help make this course even better for future learners.
