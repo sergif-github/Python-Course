@@ -55,7 +55,6 @@ When you reassign a variable, the new value overwrites the previous value stored
 To display the value of a variable, you can use the print() function. This allows you to see the current value stored in a variable during program execution. For example:
 
 ```python
-Copy code
 name = "Alice"
 print(name)  # Output: Alice
 

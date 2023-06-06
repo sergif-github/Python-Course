@@ -12,7 +12,7 @@ You can create strings by enclosing text within single quotes or double quotes. 
 ```python
 name = 'Alice'
 message = "Hello, World!"
-```
+
 
 Both single quotes and double quotes can be used interchangeably to define strings. However, make sure to use the same type 
 of quotes at the beginning and end of the string.
@@ -32,13 +32,20 @@ full_name = first_name + " " + last_name
 print(full_name)  # Output: John Doe
 ```
 
-#### 3.2.2 String Length
+#### 3.2.2 String Length and count
 You can determine the length of a string using the len() function. It returns the number of characters in the string:
-
 ```python
 message = "Hello, World!"
 length = len(message)
 print("Length:", length)  # Output: Length: 13
+```
+
+You can determine the occurrences of a word in a string using the count() function. It returns the number of occurrences in the string:
+```python
+message = "Hello, World!"
+word = "Hello"
+occurrences = message.count(word)
+print("Occurrences:", occurrences)  # Output: Length: 13
 ```
 
 #### 3.2.3 Accessing Characters

@@ -48,7 +48,6 @@ Python also provides logical operators that can be used to combine multiple Bool
 These operators allow you to perform logical operations on Boolean values and produce Boolean results. For example:
 
 ```python
-Copy code
 x = 10
 y = 5
 
