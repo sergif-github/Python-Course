@@ -94,7 +94,7 @@ developers for efficient and productive coding.
 
 - **Visual Studio Code (VS Code)**
 
-Visual Studio Code, commonly referred to as VS Code, is a popular open-source code editor developed by Microsoft. 
+    Visual Studio Code, commonly referred to as VS Code, is a popular open-source code editor developed by Microsoft. 
 It offers a wide range of extensions and a vibrant community, making it a powerful choice for Python development.
 
     Install VS Code from the official website (https://code.visualstudio.com/).
