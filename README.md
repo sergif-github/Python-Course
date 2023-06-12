@@ -186,6 +186,9 @@ useful Python programs on their own or be able to understand and modify Python c
 
 The course is organized into different modules, each covering a specific topic. 
 
+You can start with the first module and progress through the course at your own pace. Make sure to read the lecture notes, 
+try out the examples, and complete the exercises to solidify your knowledge.
+
 Inside the repository, you'll find the following structure:
 
 **[Module 0: Introduction to Python](./00-Introduction%20to%20Python)**
@@ -202,6 +205,8 @@ Inside the repository, you'll find the following structure:
 - [Boolean data type](./01-Variables%20and%20Data%20Types/04_boolean_data_types.ipynb)
 - [Type conversion and casting](./01-Variables%20and%20Data%20Types/05_type_conversion_and_casting.ipynb)
 - [Working with collections (lists, tuples, dictionaries, sets)](./01-Variables%20and%20Data%20Types/06_collections.ipynb)
+- [Exercises](./01-Variables%20and%20Data%20Types/07_exercisies.ipynb)
+- [Solutions](./01-Variables%20and%20Data%20Types/08_solutions.ipynb)
 
 **[Module 2: Operators](./02-Operators)**
 - [Arithmetic operators](02-Operators/01_arithmetic_operators.ipynb)
@@ -210,12 +215,16 @@ Inside the repository, you'll find the following structure:
 - [Assignment operators](02-Operators/04_assignment_operators.ipynb)
 - [Bitwise operators](02-Operators/05_bitwise%20operators.ipynb)
 - [Operator precedence](02-Operators/06_operator_precedence.ipynb)
+- [Exercises](./02-Operators/07_exercises.ipynb)
+- [Solutions](./02-Operators/08_solutions.ipynb)
 
 **[Module 3: Control Flow Statements](./03-Control%20Flow%20Statements)**
 - [Conditional statements (if, else, elif)](./03-Control%20Flow%20Statements/01_conditional_statements.ipynb)
 - [Nested conditionals](./03-Control%20Flow%20Statements/02_nested_conditionals.ipynb)
 - [Logical operators in conditionals](./03-Control%20Flow%20Statements/03_logical_operators_in_conditionals.ipynb)
 - [The ternary operator](./03-Control%20Flow%20Statements/04_the_therany_operator.ipynb)
+- [Exercises](./03-Control%20Flow%20Statements/05_exercises.ipynb)
+- [Solutions](./03-Control%20Flow%20Statements/06_solutions.ipynb)
 
 **[Module 4: Loops](./04-Loops)**
 - [While loop](04-Loops/01_while_loop.ipynb)
@@ -223,20 +232,25 @@ Inside the repository, you'll find the following structure:
 - [Loop control statements (break, continue)](04-Loops/03_loop_control_statements.ipynb)
 - [Nested loops](04-Loops/04_nested_loops.ipynb)
 - [Looping through collections](04-Loops/05_looping_collections.ipynb)
+- [Exercises](./04-Loops/06_exercises.ipynb)
+- [Solutions](./04-Loops/07_solutions.ipynb)
 
 **[Module 5: Methods and Functions](./05-Methods%20and%20Functions)**
 - [Defining and calling functions](./05-Methods%20and%20Functions/01_define_and_call_functions.ipynb)
 - [Returning values from functions](./05-Methods%20and%20Functions/02_return_values.ipynb)
 - [Variable scope and global keyword](./05-Methods%20and%20Functions/03_scope_and_global_keyword.ipynb)
 - [Recursive functions](./05-Methods%20and%20Functions/04_recursive_functions.ipynb)
+- [Exercises](./05-Methods%20and%20Functions/05_exercises.ipynb)
+- [Solutions](./05-Methods%20and%20Functions/06_solutions.ipynb)
 
 **[Module 6: Object-Oriented Programming](./06-Object-Oriented%20Programming)**
-- [Introduction to classes and objects](06-Object-Oriented%20Programming/01_introduction.ipynb)
-- [Class attributes and instance attributes](./06-Object-Oriented%20Programming/02_class_atributes_and_instance_atributes.ipynb)
-- [Class methods and static methods](./06-Object-Oriented%20Programming/03_class_methods_and_data_abstraction.ipynb)
-- [Encapsulation and data abstraction](./06-Object-Oriented%20Programming/04_encapsulation_and_data_abstraction.ipynb)
-- [Inheritance and polymorphism](./06-Object-Oriented%20Programming/05_inheritance_and_polymorphism.ipynb)
-- [Special Python methods (dunder methods)](./06-Object-Oriented%20Programming/06_special_python_methods.ipynb)
+- [Introduction to OOP](./06-Object-Oriented%20Programming/01_introduction_to_OOP.ipynb)
+- [Classes and Objects](./06-Object-Oriented%20Programming/02_classes_and_objects.ipynb)
+- [Encapsulation and Abstraction](./06-Object-Oriented%20Programming/03_encapsulation_and_abstraction.ipynb)
+- [Inheritance](./06-Object-Oriented%20Programming/04_inheritance.ipynb)
+- [Polymorphism](./06-Object-Oriented%20Programming/05_polymorphism.ipynb)
+- [Exercises](./06-Object-Oriented%20Programming/06_exercises%20copy.ipynb)
+- [Solutions](./06-Object-Oriented%20Programming/07_solutions.ipynb)
 
 **[Module 7: Exception Handling](./07-Exception%20Handling)**
 - [Understanding exceptions](./07-Exception%20Handling/01_understanding_exceptions.ipynb)
@@ -276,6 +290,3 @@ Inside the repository, you'll find the following structure:
 - [Test-driven development](./12-Testing%20and%20Debugging/02_test_driven_development.ipynb)
 - [Debugging techniques and strategies](./12-Testing%20and%20Debugging/03_debugging_techniques_and_strategies.ipynb)
 - [Handling common errors](./12-Testing%20and%20Debugging/04_handling_common_errors.ipynb)
-
-You can start with the first module and progress through the course at your own pace. Make sure to read the lecture notes, 
-try out the examples, and complete the exercises to solidify your knowledge.
