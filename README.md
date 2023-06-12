@@ -19,9 +19,7 @@ Whether you're new to programming or have some experience, this course will help
 We welcome contributions to this Python course repository. If you find any issues, have suggestions for improvements, 
 or want to add new content, please feel free to open an issue. Your contributions will help make this course even better for future learners.
 
-Support me to create more educational materials
-
-Author: Sergi Felip Ribas
+Support me to create more educational materials!
 
 <p align="center">
     <a href="https://paypal.me/sergifelipribas"><img src="./Images/paypal_lg.png" alt="Paypal Logo" style="width:10%; margin-right: 20px;"></a>
@@ -228,10 +226,9 @@ Inside the repository, you'll find the following structure:
 
 **[Module 5: Methods and Functions](./05-Methods%20and%20Functions)**
 - [Defining and calling functions](./05-Methods%20and%20Functions/01_define_and_call_functions.ipynb)
-- [Function parameters and arguments](./05-Methods%20and%20Functions/02_parameters_and_arguments.ipynb)
+- [Returning values from functions](./05-Methods%20and%20Functions/02_return_values.ipynb)
 - [Variable scope and global keyword](./05-Methods%20and%20Functions/03_scope_and_global_keyword.ipynb)
-- [Returning values from functions](./05-Methods%20and%20Functions/04_return_values.ipynb)
-- [Recursive functions](./05-Methods%20and%20Functions/05_recursive_functions.ipynb)
+- [Recursive functions](./05-Methods%20and%20Functions/04_recursive_functions.ipynb)
 
 **[Module 6: Object-Oriented Programming](./06-Object-Oriented%20Programming)**
 - [Introduction to classes and objects](06-Object-Oriented%20Programming/01_introduction.ipynb)
