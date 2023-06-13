@@ -255,8 +255,9 @@ Inside the repository, you'll find the following structure:
 **[Module 7: Exception Handling](./07-Exception%20Handling)**
 - [Understanding exceptions](./07-Exception%20Handling/01_understanding_exceptions.ipynb)
 - [Handling exceptions using try-except blocks](./07-Exception%20Handling/02_handling_exceptions_using_try-except_block.ipynb)
-- [Catching specific exceptions](./07-Exception%20Handling/03_catching_specific_exceptions.ipynb)
-- [Raising exceptions](./07-Exception%20Handling/04_raising_exceptions.ipynb)
+- [Raising exceptions](./07-Exception%20Handling/03_raising_exceptions.ipynb)
+- [Exercises](./07-Exception%20Handling/04_exercises.ipynb)
+- [Solutions](./07-Exception%20Handling/05_solutions.ipynb)
 
 **[Module 8: Modules and Packages](./08-Modules%20and%20Packages)**
 - [Importing and using modules](./08-Modules%20and%20Packages/01_importing_and_using_modules.ipynb)
