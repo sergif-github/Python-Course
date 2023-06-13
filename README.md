@@ -262,7 +262,6 @@ Inside the repository, you'll find the following structure:
 **[Module 8: Modules and Packages](./08-Modules%20and%20Packages)**
 - [Importing and using modules](./08-Modules%20and%20Packages/01_importing_and_using_modules.ipynb)
 - [Creating and organizing packages](./08-Modules%20and%20Packages/02_creating_and_organizing_packages.ipynb)
-- [Exploring the Python Standard Library](./08-Modules%20and%20Packages/03_python_standard_library.ipynb)
 
 **[Module 9: File Handling and Manipulation](./09-File%20Handling%20and%20Manipulation)**
 - [Reading and writing text files](./09-File%20Handling%20and%20Manipulation/01_reading_and_writing_files.ipynb)
