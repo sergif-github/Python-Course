@@ -192,11 +192,13 @@ try out the examples, and complete the exercises to solidify your knowledge.
 Inside the repository, you'll find the following structure:
 
 **[Module 0: Introduction to Python](./00-Introduction%20to%20Python)**
-- [Introduction and installing Python](./00-Introduction%20to%20Python/01_introduction_python.ipynb)
+- [Introduction to Python](./00-Introduction%20to%20Python/01_introduction_python.ipynb)
 - [Running Python programs](./00-Introduction%20to%20Python/02_running_python_programs.ipynb)
 - [Basic syntax and indentation](./00-Introduction%20to%20Python/03_basic_syntax_and_identation.ipynb)
 - [Printing and commenting code](./00-Introduction%20to%20Python/04_printing_and_commenting_code.ipynb)
 - [User input](./00-Introduction%20to%20Python/05_user_input.ipynb)
+- [Exercises](./00-Introduction%20to%20Python/06_exercisies.ipynb)
+- [Solutions](./00-Introduction%20to%20Python/07_solutions.ipynb)
 
 **[Module 1: Variables and Data Types](./01-Variables%20and%20Data%20Types)**
 - [Variables and assignments](./01-Variables%20and%20Data%20Types/01_variables_and_assignments.ipynb)
@@ -204,7 +206,7 @@ Inside the repository, you'll find the following structure:
 - [Strings and string manipulation](./01-Variables%20and%20Data%20Types/03_string_and_manipulation.ipynb)
 - [Boolean data type](./01-Variables%20and%20Data%20Types/04_boolean_data_types.ipynb)
 - [Type conversion and casting](./01-Variables%20and%20Data%20Types/05_type_conversion_and_casting.ipynb)
-- [Working with collections (lists, tuples, dictionaries, sets)](./01-Variables%20and%20Data%20Types/06_collections.ipynb)
+- [Working with collections (lists, tuples, sets, dictionaries)](./01-Variables%20and%20Data%20Types/06_collections.ipynb)
 - [Exercises](./01-Variables%20and%20Data%20Types/07_exercisies.ipynb)
 - [Solutions](./01-Variables%20and%20Data%20Types/08_solutions.ipynb)
 
@@ -239,7 +241,8 @@ Inside the repository, you'll find the following structure:
 - [Defining and calling functions](./05-Methods%20and%20Functions/01_define_and_call_functions.ipynb)
 - [Returning values from functions](./05-Methods%20and%20Functions/02_return_values.ipynb)
 - [Variable scope and global keyword](./05-Methods%20and%20Functions/03_scope_and_global_keyword.ipynb)
-- [Recursive functions](./05-Methods%20and%20Functions/04_recursive_functions.ipynb)
+- [High order functions](./05-Methods%20and%20Functions/04_high_order_functions.ipynb)
+- [Lambda functions](./05-Methods%20and%20Functions/05_lambda_functions.ipynb)
 - [Exercises](./05-Methods%20and%20Functions/05_exercises.ipynb)
 - [Solutions](./05-Methods%20and%20Functions/06_solutions.ipynb)
 
