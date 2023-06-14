@@ -278,7 +278,7 @@ Inside the repository, you'll find the following structure:
 **[Module 10: Additional Python Modules and Libraries](./10-Additional%20Python%20Modules%20and%20Libraries)**
 - [Dates and times manipulation (datetime module)](./10-Additional%20Python%20Modules%20and%20Libraries/01_datetime_module.ipynb)
 - [Mathematical operations (math module)](./10-Additional%20Python%20Modules%20and%20Libraries/02_math_module.ipynb)
-- [Generating random numbers (random module)](./10-Additional%20Python%20Modules%20and%20Libraries/03_random_module.ipynb)
+- [Generate random numbers (random module)](./10-Additional%20Python%20Modules%20and%20Libraries/03_random_module.ipynb)
 - [Working with images (Pillow module)](./10-Additional%20Python%20Modules%20and%20Libraries/04_pillow_module.ipynb)
 - [Zip files (zipfile module)](./10-Additional%20Python%20Modules%20and%20Libraries/05_zipfile_module.ipynb)
 - [Regular expressions (re module)](./10-Additional%20Python%20Modules%20and%20Libraries/06_re_module.ipynb)
@@ -287,11 +287,11 @@ Inside the repository, you'll find the following structure:
 - [Solutions](./10-Additional%20Python%20Modules%20and%20Libraries/09_solutions.ipynb)
 
 **[Module 11: Advanced Concepts](./11-Advanced%20Concepts)**
-- [Decorators (function decorators and class decorators)](./11-Advanced%20Concepts/01_decorators.ipynb)
+- [Function and class decorators](./11-Advanced%20Concepts/01_decorators.ipynb)
 - [Iterators and generators](./11-Advanced%20Concepts/02_iterators_and_generators.ipynb)
 - [Recursion](./11-Advanced%20Concepts/03_recursion.ipynb)
-- [Debugging with the debugger](./11-Advanced%20Concepts/03_recursion.ipynb)
-- [Code timing and optimization](./11-Advanced%20Concepts/04_debugging.ipynb)
+- [Debugging](./11-Advanced%20Concepts/04_debugging.ipynb)
+- [Code timming and optimization](./11-Advanced%20Concepts/05_code_timming_and_optimization.ipynb)
 - [Exercises](./11-Advanced%20Concepts/06_exercises.ipynb)
 - [Solutions](./11-Advanced%20Concepts/07_solutions.ipynb)
 
