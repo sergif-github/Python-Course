@@ -269,6 +269,8 @@ Inside the repository, you'll find the following structure:
 - [File modes and file paths](./09-File%20Handling%20and%20Manipulation/04_csv_and_json_files.ipynb)
 - [CSV and JSON file processing](./09-File%20Handling%20and%20Manipulation/03_file_modes_and_paths.ipynb)
 - [Error handling with files](./09-File%20Handling%20and%20Manipulation/05_error_handling_with_files.ipynb)
+- [Exercises](./09-File%20Handling%20and%20Manipulation/06_exercises.ipynb)
+- [Solutions](./09-File%20Handling%20and%20Manipulation/07_solutions.ipynb)
 
 **[Module 10: Additional Python Modules and Libraries](./10-Additional%20Python%20Modules%20and%20Libraries)**
 - [Dates and times manipulation (datetime module)](./10-Additional%20Python%20Modules%20and%20Libraries/01_datetime_module.ipynb)
@@ -277,6 +279,8 @@ Inside the repository, you'll find the following structure:
 - [Working with images (Pillow module)](./10-Additional%20Python%20Modules%20and%20Libraries/04_pillow_module.ipynb)
 - [Zip files (zipfile module)](./10-Additional%20Python%20Modules%20and%20Libraries/05_zipfile_module.ipynb)
 - [Regular expressions (re module)](./10-Additional%20Python%20Modules%20and%20Libraries/06_re_module.ipynb)
+- [Exercises](./10-Additional%20Python%20Modules%20and%20Libraries/07_exercises.ipynb)
+- [Solutions](./10-Additional%20Python%20Modules%20and%20Libraries/08_solutions.ipynb)
 
 **[Module 11: Advanced Concepts](./11-Advanced%20Concepts)**
 - [Decorators (function decorators and class decorators)](./11-Advanced%20Concepts/01_decorators.ipynb)
