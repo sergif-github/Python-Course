@@ -288,6 +288,8 @@ Inside the repository, you'll find the following structure:
 - [Recursion](./11-Advanced%20Concepts/03_recursion.ipynb)
 - [Debugging with the debugger](./11-Advanced%20Concepts/03_recursion.ipynb)
 - [Code timing and optimization](./11-Advanced%20Concepts/04_debugging.ipynb)
+- [Exercises](./11-Advanced%20Concepts/06_exercises.ipynb)
+- [Solutions](./11-Advanced%20Concepts/07_solutions.ipynb)
 
 **[Module 12: Testing and Debugging](./12-Testing%20and%20Debugging)**
 - [Unit testing with unittest module](./12-Testing%20and%20Debugging/01_unitest_module.ipynb)
