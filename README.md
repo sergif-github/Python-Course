@@ -243,8 +243,8 @@ Inside the repository, you'll find the following structure:
 - [Variable scope and global keyword](./05-Methods%20and%20Functions/03_scope_and_global_keyword.ipynb)
 - [High order functions](./05-Methods%20and%20Functions/04_high_order_functions.ipynb)
 - [Lambda functions](./05-Methods%20and%20Functions/05_lambda_functions.ipynb)
-- [Exercises](./05-Methods%20and%20Functions/05_exercises.ipynb)
-- [Solutions](./05-Methods%20and%20Functions/06_solutions.ipynb)
+- [Exercises](./05-Methods%20and%20Functions/06_exercises.ipynb)
+- [Solutions](./05-Methods%20and%20Functions/07_solutions.ipynb)
 
 **[Module 6: Object-Oriented Programming](./06-Object-Oriented%20Programming)**
 - [Introduction to OOP](./06-Object-Oriented%20Programming/01_introduction_to_OOP.ipynb)
@@ -252,7 +252,7 @@ Inside the repository, you'll find the following structure:
 - [Encapsulation and Abstraction](./06-Object-Oriented%20Programming/03_encapsulation_and_abstraction.ipynb)
 - [Inheritance](./06-Object-Oriented%20Programming/04_inheritance.ipynb)
 - [Polymorphism](./06-Object-Oriented%20Programming/05_polymorphism.ipynb)
-- [Exercises](./06-Object-Oriented%20Programming/06_exercises%20copy.ipynb)
+- [Exercises](./06-Object-Oriented%20Programming/06_exercises.ipynb)
 - [Solutions](./06-Object-Oriented%20Programming/07_solutions.ipynb)
 
 **[Module 7: Exception Handling](./07-Exception%20Handling)**
