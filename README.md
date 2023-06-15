@@ -161,12 +161,12 @@ The course covers a wide range of topics, starting from the basics and gradually
 
 Here are some of the key topics covered in this course:
 - Introduction to Python
-- Basic objects, statements, and data types
+- Basic variables and data types
 - Basic operators
 - Control flow statements
 - Loops
 - Methods and functions
-- Object-oriented programming (OOP) principles
+- Object-oriented programming (OOP)
 - Exception handling
 - Modules and packages
 - File handling
