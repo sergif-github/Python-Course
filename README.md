@@ -79,7 +79,7 @@ developers for efficient and productive coding.
 - **Visual Studio Code (VS Code)**
 
     Visual Studio Code, commonly referred to as VS Code, is a popular open-source code editor developed by Microsoft. 
-It offers a wide range of extensions and a vibrant community, making it a powerful choice for Python development.
+It offers a wide range of extensions and a big community, making it a powerful choice for Python development.
 
     Install VS Code from the official website (https://code.visualstudio.com/).
 
@@ -94,7 +94,7 @@ including intelligent code completion, debugging tools, and support for various 
 
 - **Atom**
 
-    Atom is a customizable and hackable text editor developed by GitHub. It offers a vast ecosystem of packages and themes, 
+    Atom is a customizable text editor developed by GitHub. It offers a vast ecosystem of packages and themes, 
 making it a popular choice for Python developers who prefer flexibility and extensibility.
 
     Install Atom from the official website (https://atom.io/).
