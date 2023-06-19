@@ -248,9 +248,9 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./07-Exception%20Handling/04_exercises.ipynb)
 - [Solutions](./07-Exception%20Handling/05_solutions.ipynb)
 
-**[Module 8: Modules and Packages](./08-Modules%20and%20Packages)**
-- [Importing and using modules](./08-Modules%20and%20Packages/01_importing_and_using_modules.ipynb)
-- [Creating and organizing packages](./08-Modules%20and%20Packages/02_creating_and_organizing_packages.ipynb)
+**[Module 8: Modules, Packages and Libraries](./08-Modules%2C%20Packages%20and%20Libraries/)**
+- [Importing and using modules](./08-Modules%2C%20Packages%20and%20Libraries/01_importing_and_using_modules.ipynb)
+- [Creating and organizing packages](./08-Modules%2C%20Packages%20and%20Libraries/02_creating_and_organizing_packages.ipynb)
 
 **[Module 9: File Manipulation](./09-File%20Manipulation)**
 - [Reading and writing text files](./09-File%20Manipulation/01_reading_and_writing_files.ipynb)
@@ -261,16 +261,16 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./09-File%20Manipulation/06_exercises.ipynb)
 - [Solutions](./09-File%20Manipulation/07_solutions.ipynb)
 
-**[Module 10: Additional Modules and Libraries](./10-Additional%20Modules%20and%20Libraries)**
-- [Dates and times manipulation (datetime module)](./10-Additional%20Modules%20and%20Libraries/01_datetime_module.ipynb)
-- [Mathematical operations (math module)](./10-Additional%20Modules%20and%20Libraries/02_math_module.ipynb)
-- [Generate random numbers (random module)](./10-Additional%20Modules%20and%20Libraries/03_random_module.ipynb)
-- [Working with images (Pillow module)](./10-Additional%20Modules%20and%20Libraries/04_pillow_module.ipynb)
-- [Zip files (zipfile module)](./10-Additional%20Modules%20and%20Libraries/05_zipfile_module.ipynb)
-- [Regular expressions (re module)](./10-Additional%20Modules%20and%20Libraries/06_re_module.ipynb)
-- [Object serialization (pickle module)](./10-Additional%20Modules%20and%20Libraries/07_pickle_module.ipynb)
-- [Exercises](./10-Additional%20Modules%20and%20Libraries/08_exercises.ipynb)
-- [Solutions](./10-Additional%20Modules%20and%20Libraries/09_solutions.ipynb)
+**[Module 10: Additional Modules and Libraries](./10-Additional%20Python%20Modules/)**
+- [Dates and times manipulation (datetime module)](./10-Additional%20Python%20Modules/01_datetime_module.ipynb)
+- [Mathematical operations (math module)](./10-Additional%20Python%20Modules/02_math_module.ipynb)
+- [Generate random numbers (random module)](./10-Additional%20Python%20Modules/03_random_module.ipynb)
+- [Working with images (Pillow module)](./10-Additional%20Python%20Modules/04_pillow_module.ipynb)
+- [Zip files (zipfile module)](./10-Additional%20Python%20Modules/05_zipfile_module.ipynb)
+- [Regular expressions (re module)](./10-Additional%20Python%20Modules/06_re_module.ipynb)
+- [Object serialization (pickle module)](./10-Additional%20Python%20Modules/07_pickle_module.ipynb)
+- [Exercises](./10-Additional%20Python%20Modules/08_exercises.ipynb)
+- [Solutions](./10-Additional%20Python%20Modules/09_solutions.ipynb)
 
 **[Module 11: Advanced Concepts](./11-Advanced%20Concepts)**
 - [Function and class decorators](./11-Advanced%20Concepts/01_decorators.ipynb)
