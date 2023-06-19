@@ -36,7 +36,7 @@ Python is a high-level, interpreted programming language with cross-platform cap
 
 As an interpreted language, Python requires an interpreter to read, interpret, and execute the source code. In contrast to compiled languages like C or C++, which transform code into machine language using a compiler, Python's interpreter provides flexibility. However, interpreted languages generally tend to be slower and less secure than their compiled counterparts. Python comes with its own default interpreter known as the "Python interpreter."
 
-Python code can be executed from the command line, and many integrated development environments (IDEs) utilize the default Python interpreter. Additionally, alternative interpreters like IPython and Jupyter offer enhanced interactivity and environments resembling a command-line shell or a notebook interface. Popular IDEs for Python development include PyCharm, Spyder, Eclipse with the PyDev plugin, Visual Studio Code, and Jupyter Notebook. Notable libraries in the Python ecosystem include NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, and PyTorc
+Python code can be executed from the command line, and many integrated development environments (IDEs) utilize the default Python interpreter. Additionally, alternative interpreters like IPython and Jupyter offer enhanced interactivity and environments resembling a command-line shell or a notebook interface. Popular IDEs for Python development include PyCharm, Spyder, Eclipse with the PyDev plugin, Visual Studio Code, and Jupyter Notebook. Notable libraries in the Python ecosystem include NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, and PyTorch.
 
 ## Getting Started
 
