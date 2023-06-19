@@ -252,7 +252,7 @@ Inside the repository, you'll find the following structure:
 - [Importing and using modules](./08-Modules%20and%20Packages/01_importing_and_using_modules.ipynb)
 - [Creating and organizing packages](./08-Modules%20and%20Packages/02_creating_and_organizing_packages.ipynb)
 
-**[Module 9: File Handling and Manipulation](./09-File%20Handling%20and%20Manipulation)**
+**[Module 9: File Manipulation](./09-File%20Manipulation)**
 - [Reading and writing text files](./09-File%20Handling%20and%20Manipulation/01_reading_and_writing_files.ipynb)
 - [Working with file objects](./09-File%20Handling%20and%20Manipulation/02_working_with_file_objects.ipynb)
 - [File modes and file paths](./09-File%20Handling%20and%20Manipulation/03_file_modes_and_paths.ipynb)
@@ -261,7 +261,7 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./09-File%20Handling%20and%20Manipulation/06_exercises.ipynb)
 - [Solutions](./09-File%20Handling%20and%20Manipulation/07_solutions.ipynb)
 
-**[Module 10: Additional Python Modules and Libraries](./10-Additional%20Python%20Modules%20and%20Libraries)**
+**[Module 10: Additional Modules and Libraries](./10-Additional%20Modules%20and%20Libraries)**
 - [Dates and times manipulation (datetime module)](./10-Additional%20Python%20Modules%20and%20Libraries/01_datetime_module.ipynb)
 - [Mathematical operations (math module)](./10-Additional%20Python%20Modules%20and%20Libraries/02_math_module.ipynb)
 - [Generate random numbers (random module)](./10-Additional%20Python%20Modules%20and%20Libraries/03_random_module.ipynb)
