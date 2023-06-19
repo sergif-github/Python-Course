@@ -261,7 +261,7 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./09-File%20Manipulation/06_exercises.ipynb)
 - [Solutions](./09-File%20Manipulation/07_solutions.ipynb)
 
-**[Module 10: Additional Modules and Libraries](./10-Additional%20Python%20Modules/)**
+**[Module 10: Additional Python Modules](./10-Additional%20Python%20Modules/)**
 - [Dates and times manipulation (datetime module)](./10-Additional%20Python%20Modules/01_datetime_module.ipynb)
 - [Mathematical operations (math module)](./10-Additional%20Python%20Modules/02_math_module.ipynb)
 - [Generate random numbers (random module)](./10-Additional%20Python%20Modules/03_random_module.ipynb)
