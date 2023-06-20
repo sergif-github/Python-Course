@@ -188,7 +188,7 @@ Inside the repository, you'll find the following structure:
 
 **[Module 1: Variables and Data Types](./01-Variables%20and%20data%20types/)**
 - [Variables and assignments](./01-Variables%20and%20data%20types/01_variables_and_assignments.ipynb)
-- [Numeric data types (int, float)]./01-Variables%20and%20data%20types/02_numeric_data_types.ipynb)
+- [Numeric data types (int, float)](./01-Variables%20and%20data%20types/02_numeric_data_types.ipynb)
 - [Strings and string manipulation](./01-Variables%20and%20data%20types/03_string_and_manipulation.ipynb)
 - [Boolean data type](./01-Variables%20and%20data%20types/04_boolean_data_types.ipynb)
 - [Type conversion and casting](./01-Variables%20and%20Data%20Types/05_type_conversion_and_casting.ipynb)
