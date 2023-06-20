@@ -177,24 +177,24 @@ try out the examples, and complete the exercises to solidify your knowledge.
 
 Inside the repository, you'll find the following structure:
 
-**[Module 0: Introduction to Python](./00-Introduction%20to%20Python/)**
-- [Introduction to Python](./00-Introduction%20to%20Python/01_introduction_python.ipynb)
-- [Running Python programs](./00-Introduction%20to%20Python/02_running_python_programs.ipynb)
-- [Basic syntax and indentation](./00-Introduction%20to%20Python/03_basic_syntax_and_identation.ipynb)
-- [Printing and commenting code](./00-Introduction%20to%20Python/04_printing_and_commenting_code.ipynb)
-- [User input](./00-Introduction%20to%20Python/05_user_input.ipynb)
-- [Exercises](./00-Introduction%20to%20Python/06_exercisies.ipynb)
-- [Solutions](./00-Introduction%20to%20Python/07_solutions.ipynb)
+**[Module 0: Introduction to Python](./00-Introduction_to_Python/)**
+- [Introduction to Python](./00-Introduction_to_Python/01_introduction_python.ipynb)
+- [Running Python programs](./00-Introduction_to_Python/02_running_python_programs.ipynb)
+- [Basic syntax and indentation](./00-Introduction_to_Python/03_basic_syntax_and_identation.ipynb)
+- [Printing and commenting code](./00-Introduction_to_Python/04_printing_and_commenting_code.ipynb)
+- [User input](./00-Introduction_to_Python/05_user_input.ipynb)
+- [Exercises](./00-Introduction_to_Python/06_exercisies.ipynb)
+- [Solutions](./00-Introduction_to_Python/07_solutions.ipynb)
 
-**[Module 1: Variables and Data Types](./01-Variables%20and%20data%20types/)**
-- [Variables and assignments](./01-Variables%20and%20data%20types/01_variables_and_assignments.ipynb)
-- [Numeric data types (int, float)](./01-Variables%20and%20data%20types/02_numeric_data_types.ipynb)
-- [Strings and string manipulation](./01-Variables%20and%20data%20types/03_string_and_manipulation.ipynb)
-- [Boolean data type](./01-Variables%20and%20data%20types/04_boolean_data_types.ipynb)
-- [Type conversion and casting](./01-Variables%20and%20Data%20Types/05_type_conversion_and_casting.ipynb)
-- [Working with collections (lists, tuples, sets, dictionaries)](./01-Variables%20and%20data%20types/06_collections.ipynb)
-- [Exercises](./01-Variables%20and%20data%20types/07_exercisies.ipynb)
-- [Solutions](./01-Variables%20and%20data%20types/08_solutions.ipynb)
+**[Module 1: Variables and Data Types](./01-Variables_and_data_types/)**
+- [Variables and assignments](./01-Variables_and_data_types/01_variables_and_assignments.ipynb)
+- [Numeric data types (int, float)](./01-Variables_and_data_types/02_numeric_data_types.ipynb)
+- [Strings and string manipulation](./01-Variables_and_data_types/03_string_and_manipulation.ipynb)
+- [Boolean data type](./01-Variables_and_data_types/04_boolean_data_types.ipynb)
+- [Type conversion and casting](./01-Variables_and_data_types/05_type_conversion_and_casting.ipynb)
+- [Working with collections (lists, tuples, sets, dictionaries)](./01-Variables_and_data_types/06_collections.ipynb)
+- [Exercises](./01-Variables_and_data_types/07_exercisies.ipynb)
+- [Solutions](./01-Variables_and_data_types/08_solutions.ipynb)
 
 **[Module 2: Operators](./02-Operators)**
 - [Arithmetic operators](02-Operators/01_arithmetic_operators.ipynb)
@@ -206,13 +206,13 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./02-Operators/07_exercises.ipynb)
 - [Solutions](./02-Operators/08_solutions.ipynb)
 
-**[Module 3: Control Flow Statements](./03-Control%20flow%20statements/)**
-- [Conditional statements (if, else, elif)](./03-Control%20flow%20statements/01_conditional_statements.ipynb)
-- [Nested conditionals](./03-Control%20flow%20statements/02_nested_conditionals.ipynb)
-- [Logical operators in conditionals](./03-Control%20flow%20statements/03_logical_operators_in_conditionals.ipynb)
-- [The ternary operator](./03-Control%20flow%20statements/04_the_therany_operator.ipynb)
-- [Exercises](./03-Control%20flow%20statements/05_exercises.ipynb)
-- [Solutions](./03-Control%20flow%20statements/06_solutions.ipynb)
+**[Module 3: Control Flow Statements](./03-Control_flow_statements/)**
+- [Conditional statements (if, else, elif)](./03-Control_flow_statements/01_conditional_statements.ipynb)
+- [Nested conditionals](./03-Control_flow_statements/02_nested_conditionals.ipynb)
+- [Logical operators in conditionals](./03-Control_flow_statements/03_logical_operators_in_conditionals.ipynb)
+- [The ternary operator](./03-Control_flow_statements/04_the_therany_operator.ipynb)
+- [Exercises](./03-Control_flow_statements/05_exercises.ipynb)
+- [Solutions](./03-Control_flow_statements/06_solutions.ipynb)
 
 **[Module 4: Loops](./04-Loops)**
 - [While loop](04-Loops/01_while_loop.ipynb)
@@ -223,66 +223,66 @@ Inside the repository, you'll find the following structure:
 - [Exercises](./04-Loops/06_exercises.ipynb)
 - [Solutions](./04-Loops/07_solutions.ipynb)
 
-**[Module 5: Methods and Functions](./05-Methods%20and%20functions/)**
-- [Defining and calling functions](./05-Methods%20and%20functions/01_define_and_call_functions.ipynb)
-- [Returning values from functions](./05-Methods%20and%20functions/02_return_values.ipynb)
-- [Variable scope and global keyword](./05-Methods%20and%20functions/03_scope_and_global_keyword.ipynb)
-- [High order functions](./05-Methods%20and%20functions/04_high_order_functions.ipynb)
-- [Lambda functions](./05-Methods%20and%20functions/05_lambda_functions.ipynb)
-- [Exercises](./05-Methods%20and%20functions/06_exercises.ipynb)
-- [Solutions](./05-Methods%20and%20functions/07_solutions.ipynb)
+**[Module 5: Methods and Functions](./05-Methods_and_functions/)**
+- [Defining and calling functions](./05-Methods_and_functions/01_define_and_call_functions.ipynb)
+- [Returning values from functions](./05-Methods_and_functions/02_return_values.ipynb)
+- [Variable scope and global keyword](./05-Methods_and_functions/03_scope_and_global_keyword.ipynb)
+- [High order functions](./05-Methods_and_functions/04_high_order_functions.ipynb)
+- [Lambda functions](./05-Methods_and_functions/05_lambda_functions.ipynb)
+- [Exercises](./05-Methods_and_functions/06_exercises.ipynb)
+- [Solutions](./05-Methods_and_functions/07_solutions.ipynb)
 
-**[Module 6: Object-Oriented Programming](./06-Object%20oriented%20programming/)**
-- [Introduction to OOP](./06-Object%20oriented%20programming/01_introduction_to_OOP.ipynb)
-- [Classes and Objects](./06-Object%20oriented%20programming/02_classes_and_objects.ipynb)
-- [Encapsulation and Abstraction](./06-Object%20oriented%20programming/03_encapsulation_and_abstraction.ipynb)
-- [Inheritance](./06-Object%20oriented%20programming/04_inheritance.ipynb)
-- [Polymorphism](./06-Object%20oriented%20programming/05_polymorphism.ipynb)
-- [Exercises](./06-Object%20oriented%20programming/06_exercises.ipynb)
-- [Solutions](./06-Object%20oriented%20programming/07_solutions.ipynb)
+**[Module 6: Object-Oriented Programming](./06-Object_oriented_programming/)**
+- [Introduction to OOP](./06-Object_oriented_programming/01_introduction_to_OOP.ipynb)
+- [Classes and Objects](./06-Object_oriented_programming/02_classes_and_objects.ipynb)
+- [Encapsulation and Abstraction](./06-Object_oriented_programming/03_encapsulation_and_abstraction.ipynb)
+- [Inheritance](./06-Object_oriented_programming/04_inheritance.ipynb)
+- [Polymorphism](./06-Object_oriented_programming/05_polymorphism.ipynb)
+- [Exercises](./06-Object_oriented_programming/06_exercises.ipynb)
+- [Solutions](./06-Object_oriented_programming/07_solutions.ipynb)
 
-**[Module 7: Exception Handling](./07-Exception%20handling/)**
-- [Understanding exceptions](./07-Exception%20handling/01_understanding_exceptions.ipynb)
-- [Handling exceptions using try-except blocks](./07-Exception%20handling/02_handling_exceptions_using_try-except_block.ipynb)
-- [Raising exceptions](./07-Exception%20handling/03_raising_exceptions.ipynb)
-- [Exercises](./07-Exception%20handling/04_exercises.ipynb)
-- [Solutions](./07-Exception%20handling/05_solutions.ipynb)
+**[Module 7: Exception Handling](./07-Exception_handling/)**
+- [Understanding exceptions](./07-Exception_handling/01_understanding_exceptions.ipynb)
+- [Handling exceptions using try-except blocks](./07-Exception_handling/02_handling_exceptions_using_try-except_block.ipynb)
+- [Raising exceptions](./07-Exception_handling/03_raising_exceptions.ipynb)
+- [Exercises](./07-Exception_handling/04_exercises.ipynb)
+- [Solutions](./07-Exception_handling/05_solutions.ipynb)
 
-**[Module 8: Modules, Packages and Libraries](./08-Modules%2C%20packages%20and%20libraries/)**
-- [Importing and using modules](./08-Modules%2C%20packages%20and%20libraries/01_importing_and_using_modules.ipynb)
-- [Creating and organizing packages](./08-Modules%2C%20packages%20and%20libraries/02_creating_and_organizing_packages.ipynb)
+**[Module 8: Modules, Packages and Libraries](./08-Modules_packages_and_libraries/)**
+- [Importing and using modules](./08-Modules_packages_and_libraries/01_importing_and_using_modules.ipynb)
+- [Creating and organizing packages](./08-Modules_packages_and_libraries/02_creating_and_organizing_packages.ipynb)
 
-**[Module 9: File Manipulation](./09-File%20manipulation/)**
-- [Reading and writing text files](./09-File%20manipulation/01_reading_and_writing_files.ipynb)
-- [Working with file objects](./09-File%20manipulation/02_working_with_file_objects.ipynb)
-- [File modes and file paths](./09-File%20manipulation/03_file_modes_and_paths.ipynb)
-- [CSV and JSON file processing](./09-File%20manipulation/04_csv_and_json_files.ipynb)
-- [Error handling with files](./09-File%20manipulation/05_error_handling_with_files.ipynb)
-- [Exercises](./09-File%20manipulation/06_exercises.ipynb)
-- [Solutions](./09-File%20manipulation/07_solutions.ipynb)
+**[Module 9: File Manipulation](./09-File_manipulation/)**
+- [Reading and writing text files](./09-File_manipulation/01_reading_and_writing_files.ipynb)
+- [Working with file objects](./09-File_manipulation/02_working_with_file_objects.ipynb)
+- [File modes and file paths](./09-File_manipulation/03_file_modes_and_paths.ipynb)
+- [CSV and JSON file processing](./09-File_manipulation/04_csv_and_json_files.ipynb)
+- [Error handling with files](./09-File_manipulation/05_error_handling_with_files.ipynb)
+- [Exercises](./09-File_manipulation/06_exercises.ipynb)
+- [Solutions](./09-File_manipulation/07_solutions.ipynb)
 
-**[Module 10: Additional Python Modules](./10-Additional%20Python%20modules/)**
-- [Dates and times manipulation (datetime module)](./10-Additional%20Python%20modules/01_datetime_module.ipynb)
-- [Mathematical operations (math module)](./10-Additional%20Python%20modules/02_math_module.ipynb)
-- [Generate random numbers (random module)](./10-Additional%20Python%20modules/03_random_module.ipynb)
-- [Working with images (Pillow module)](./10-Additional%20Python%20modules/04_pillow_module.ipynb)
-- [Zip files (zipfile module)](./10-Additional%20Python%20modules/05_zipfile_module.ipynb)
-- [Regular expressions (re module)](./10-Additional%20Python%20modules/06_re_module.ipynb)
-- [Object serialization (pickle module)](./10-Additional%20Python%20modules/07_pickle_module.ipynb)
-- [Exercises](./10-Additional%20Python%20modules/08_exercises.ipynb)
-- [Solutions](./10-Additional%20Python%20modules/09_solutions.ipynb)
+**[Module 10: Additional Python Modules](./10-Additional_Python_modules/)**
+- [Dates and times manipulation (datetime module)](./10-Additional_Python_modules/01_datetime_module.ipynb)
+- [Mathematical operations (math module)](./10-Additional_Python_modules/02_math_module.ipynb)
+- [Generate random numbers (random module)](./10-Additional_Python_modules/03_random_module.ipynb)
+- [Working with images (Pillow module)](./10-Additional_Python_modules/04_pillow_module.ipynb)
+- [Zip files (zipfile module)](./10-Additional_Python_modules/05_zipfile_module.ipynb)
+- [Regular expressions (re module)](./10-Additional_Python_modules/06_re_module.ipynb)
+- [Object serialization (pickle module)](./10-Additional_Python_modules/07_pickle_module.ipynb)
+- [Exercises](./10-Additional_Python_modules/08_exercises.ipynb)
+- [Solutions](./10-Additional_Python_modules/09_solutions.ipynb)
 
-**[Module 11: Advanced Concepts](./11-Advanced%20concepts/)**
-- [Function and class decorators](./11-Advanced%20concepts/01_decorators.ipynb)
-- [Iterators and generators](./11-Advanced%20concepts/02_iterators_and_generators.ipynb)
-- [Recursion](./11-Advanced%20concepts/03_recursion.ipynb)
-- [Debugging](./11-Advanced%20concepts/04_debugging.ipynb)
-- [Code timming and optimization](./11-Advanced%20concepts/05_code_timming_and_optimization.ipynb)
-- [Exercises](./11-Advanced%20concepts/06_exercises.ipynb)
-- [Solutions](./11-Advanced%20concepts/07_solutions.ipynb)
+**[Module 11: Advanced Concepts](./11-Advanced_concepts/)**
+- [Function and class decorators](./11-Advanced_concepts/01_decorators.ipynb)
+- [Iterators and generators](./11-Advanced_concepts/02_iterators_and_generators.ipynb)
+- [Recursion](./11-Advanced_concepts/03_recursion.ipynb)
+- [Debugging](./11-Advanced_concepts/04_debugging.ipynb)
+- [Code timming and optimization](./11-Advanced_concepts/05_code_timming_and_optimization.ipynb)
+- [Exercises](./11-Advanced_concepts/06_exercises.ipynb)
+- [Solutions](./11-Advanced_concepts/07_solutions.ipynb)
 
-**[Module 12: Testing and Debugging](./12-Testing%20and%20debugging)**
-- [Unit testing with unittest module](./12-Testing%20and%20debugging/01_unitest_module.ipynb)
-- [Test-driven development](./12-Testing%20and%20debugging/02_test_driven_development.ipynb)
-- [Debugging techniques and strategies](./12-Testing%20and%20debugging/03_debugging_techniques_and_strategies.ipynb)
-- [Handling common errors](./12-Testing%20and%20debugging/04_handling_common_errors.ipynb)
+**[Module 12: Testing and Debugging](./12-Testing_and_debugging/)**
+- [Unit testing with unittest module](./12-Testing_and_debugging/01_unitest_module.ipynb)
+- [Test-driven development](./12-Testing_and_debugging/02_test_driven_development.ipynb)
+- [Debugging techniques and strategies](./12-Testing_and_debugging/03_debugging_techniques_and_strategies.ipynb)
+- [Handling common errors](./12-Testing_and_debugging/04_handling_common_errors.ipynb)
