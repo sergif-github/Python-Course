@@ -1,6 +1,6 @@
-# Python Course Repository
+# Python Course
 
-Welcome to the Python Course repository! This free repository is designed to provide a comprehensive Python programming course for beginners. 
+Welcome to the Python Course! This free repository is designed to provide a comprehensive Python programming course for beginners. 
 Whether you're new to programming or have some experience, this course will help you learn and improve your Python skills.
 
 **Happy coding and enjoy the Python course!**
