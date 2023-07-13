@@ -201,7 +201,7 @@ Inside the repository, you'll find the following structure:
 - [Comparison operators](02-Operators/02_comparison_operators.ipynb)
 - [Logical operators](02-Operators/03_logical_operators.ipynb)
 - [Assignment operators](02-Operators/04_assignment_operators.ipynb)
-- [Bitwise operators](02-Operators/05_bitwise%20operators.ipynb)
+- [Bitwise operators](02-Operators/05_bitwise_operators.ipynb)
 - [Operator precedence](02-Operators/06_operator_precedence.ipynb)
 - [Exercises](./02-Operators/07_exercises.ipynb)
 - [Solutions](./02-Operators/08_solutions.ipynb)
@@ -225,12 +225,15 @@ Inside the repository, you'll find the following structure:
 
 **[Module 5: Methods and Functions](./05-Methods_and_functions/)**
 - [Defining and calling functions](./05-Methods_and_functions/01_define_and_call_functions.ipynb)
-- [Returning values from functions](./05-Methods_and_functions/02_return_values.ipynb)
-- [Variable scope and global keyword](./05-Methods_and_functions/03_scope_and_global_keyword.ipynb)
-- [High order functions](./05-Methods_and_functions/04_high_order_functions.ipynb)
-- [Lambda functions](./05-Methods_and_functions/05_lambda_functions.ipynb)
-- [Exercises](./05-Methods_and_functions/06_exercises.ipynb)
-- [Solutions](./05-Methods_and_functions/07_solutions.ipynb)
+- [Variable scope and global keyword](./05-Methods_and_functions/02_scope_and_global_keyword.ipynb)
+- [High order functions](./05-Methods_and_functions/03_high_order_functions.ipynb)
+- [Lambda functions](./05-Methods_and_functions/04_lambda_functions.ipynb)
+- [Exercises](./05-Methods_and_functions/05_exercises.ipynb)
+- [Solutions](./05-Methods_and_functions/06_solutions.ipynb)
+- [Milestone project grades](./05-Methods_and_functions/07_milestone_project_grade.ipynb)
+- [Solution milestone project grades](./05-Methods_and_functions/08_milestone_project_grade_solution.ipynb)
+- [Milestone project calculator](./05-Methods_and_functions/09_milestone_project_calculator.ipynb)
+- [Solution milestone project calculator](./05-Methods_and_functions/10_milestone_project_calculator_solution.ipynb)
 
 **[Module 6: Object-Oriented Programming](./06-Object_oriented_programming/)**
 - [Introduction to OOP](./06-Object_oriented_programming/01_introduction_to_OOP.ipynb)
@@ -240,13 +243,16 @@ Inside the repository, you'll find the following structure:
 - [Polymorphism](./06-Object_oriented_programming/05_polymorphism.ipynb)
 - [Exercises](./06-Object_oriented_programming/06_exercises.ipynb)
 - [Solutions](./06-Object_oriented_programming/07_solutions.ipynb)
+- [Milestone project bank](./06-Object_oriented_programming/08_milestone_project_bank.ipynb)
+- [Solution milestone project bank](./06-Object_oriented_programming/09_milestone_project_bank_solution.ipynb)
 
 **[Module 7: Exception Handling](./07-Exception_handling/)**
-- [Understanding exceptions](./07-Exception_handling/01_understanding_exceptions.ipynb)
-- [Handling exceptions using try-except blocks](./07-Exception_handling/02_handling_exceptions_using_try-except_block.ipynb)
-- [Raising exceptions](./07-Exception_handling/03_raising_exceptions.ipynb)
-- [Exercises](./07-Exception_handling/04_exercises.ipynb)
-- [Solutions](./07-Exception_handling/05_solutions.ipynb)
+- [Handling common errors](./07-Exception_handling/01_handling_common_errors.ipynb)
+- [Understanding exceptions](./07-Exception_handling/02_understanding_exceptions.ipynb)
+- [Handling exceptions using try-except blocks](./07-Exception_handling/03_handling_exceptions_using_try-except_block.ipynb)
+- [Raising exceptions](./07-Exception_handling/04_raising_exceptions.ipynb)
+- [Exercises](./07-Exception_handling/05_exercises.ipynb)
+- [Solutions](./07-Exception_handling/06_solutions.ipynb)
 
 **[Module 8: Modules, Packages and Libraries](./08-Modules_packages_and_libraries/)**
 - [Importing and using modules](./08-Modules_packages_and_libraries/01_importing_and_using_modules.ipynb)
@@ -271,6 +277,8 @@ Inside the repository, you'll find the following structure:
 - [Object serialization (pickle module)](./10-Additional_Python_modules/07_pickle_module.ipynb)
 - [Exercises](./10-Additional_Python_modules/08_exercises.ipynb)
 - [Solutions](./10-Additional_Python_modules/09_solutions.ipynb)
+- [Milestone project online store](./10-Additional_Python_modules/10_milestone_project_store.ipynb)
+- [Solution milestone project online store](./10-Additional_Python_modules/11_milestone_project_store_solution.ipynb)
 
 **[Module 11: Advanced Concepts](./11-Advanced_concepts/)**
 - [Function and class decorators](./11-Advanced_concepts/01_decorators.ipynb)
@@ -285,4 +293,3 @@ Inside the repository, you'll find the following structure:
 - [Unit testing with unittest module](./12-Testing_and_debugging/01_unitest_module.ipynb)
 - [Test-driven development](./12-Testing_and_debugging/02_test_driven_development.ipynb)
 - [Debugging techniques and strategies](./12-Testing_and_debugging/03_debugging_techniques_and_strategies.ipynb)
-- [Handling common errors](./12-Testing_and_debugging/04_handling_common_errors.ipynb)
