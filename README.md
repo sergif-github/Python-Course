@@ -115,17 +115,17 @@ Once done, JupyterLab should be installed on your system.
 
     Launch JupyterLab by running the following command: ```jupyter lab```. This will open JupyterLab in your default web browser.
 
-### Google Colab (No Installations Required)
+- **Google Colab (No Installations Required)**
 
-Alternatively, if you prefer a hassle-free setup without any installations on your local machine, you can utilize Google Colab. 
-Google Colab provides a cloud-based environment where you can create, run, and collaborate on Jupyter notebooks without the need for local installations.
-Google Colab provides pre-installed libraries, including Python and popular data science packages like NumPy and Pandas. You can directly write
-and execute code in the notebook cells.
+    Alternatively, if you prefer a hassle-free setup without any installations on your local machine, you can utilize Google Colab. 
+    Google Colab provides a cloud-based environment where you can create, run, and collaborate on Jupyter notebooks without the need for local installations.
+    Google Colab provides pre-installed libraries, including Python and popular data science packages like NumPy and Pandas. You can directly write
+    and execute code in the notebook cells.
 
-To access Google Colab:
+    To access Google Colab:
 
-1. Open Google Colab: Visit the Google Colab website using any web browser.
-2. Create a New Notebook: Click on "New Notebook" to create a new blank notebook or choose from existing templates.
+    1. Open Google Colab: Visit the Google Colab website using any web browser.
+    2. Create a New Notebook: Click on "New Notebook" to create a new blank notebook or choose from existing templates.
 
 
 ### Files used
