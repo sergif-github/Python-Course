@@ -10,6 +10,8 @@
 - [О Python](#о-python)
 - [С чего начать](#с-чего-начать)
 - [Обзор курса](#обзор-курса)
+- [Методология обучения](./LEARNING_METHODOLOGY.md)
+- [Учебные проекты](#учебные-проекты)
 - [Структура курса](#структура-курса)
 
 
@@ -132,6 +134,16 @@ IDE упрощает разработку на Python и предоставля�
 Цель курса — освоить основы программирования на Python с упором на написание сценариев, базовую обработку данных и организацию программ. К концу курса студенты смогут самостоятельно писать полезные программы, а также читать и изменять код Python, написанный коллегами.
 
 
+## Учебные проекты
+
+Проекты позволяют постепенно применять материал курса в законченных программах. Условия и решения отдельных этапов находятся в соответствующих учебных модулях, а рабочий код проектов собран в папке [Projects](./Projects/).
+
+1. [Калькулятор](./Projects/01-Calculator/) — первый компактный проект по пользовательскому вводу, операциям, условиям, циклам и функциям.
+2. [Текстовый анализатор](./Projects/02-Text_analyzer/) — анализ строк, частотный словарь и статистика текста.
+3. [Анализатор погодных данных](./Projects/03-Weather_analyzer/) — обработка погодных данных, файлов, статистики, API и графиков.
+4. [Планировщик путешествий](./Projects/04-Travel_planner/) — маршрут, бюджет, даты, JSON и внешние данные.
+
+
 ## Структура курса
 
 Курс состоит из модулей, каждый из которых посвящён отдельной теме.
@@ -148,6 +160,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Пользовательский ввод](./00-Introduction_to_Python/05_user_input.ipynb)
 - [Упражнения](./00-Introduction_to_Python/06_exercises.ipynb)
 - [Решения](./00-Introduction_to_Python/07_solutions.ipynb)
+- [Проектные задания](./00-Introduction_to_Python/project_tasks.md)
 
 **[Модуль 1. Переменные и типы данных](./01-Variables_and_data_types/)**
 - [Переменные и присваивание](./01-Variables_and_data_types/01_variables_and_assignments.ipynb)
@@ -158,6 +171,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Работа с коллекциями (списки, кортежи, множества, словари)](./01-Variables_and_data_types/06_collections.ipynb)
 - [Упражнения](./01-Variables_and_data_types/07_exercisies.ipynb)
 - [Решения](./01-Variables_and_data_types/08_solutions.ipynb)
+- [Проектные задания](./01-Variables_and_data_types/project_tasks.md)
 
 **[Модуль 2. Операторы](./02-Operators)**
 - [Арифметические операторы](02-Operators/01_arithmetic_operators.ipynb)
@@ -168,6 +182,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Приоритет операторов](02-Operators/06_operator_precedence.ipynb)
 - [Упражнения](./02-Operators/07_exercises.ipynb)
 - [Решения](./02-Operators/08_solutions.ipynb)
+- [Проектные задания](./02-Operators/project_tasks.md)
 
 **[Модуль 3. Управление потоком выполнения](./03-Control_flow_statements/)**
 - [Условные инструкции (if, else, elif)](./03-Control_flow_statements/01_conditional_statements.ipynb)
@@ -176,6 +191,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Условное выражение (тернарный оператор)](./03-Control_flow_statements/04_the_therany_operator.ipynb)
 - [Упражнения](./03-Control_flow_statements/05_exercises.ipynb)
 - [Решения](./03-Control_flow_statements/06_solutions.ipynb)
+- [Проектные задания](./03-Control_flow_statements/project_tasks.md)
 
 **[Модуль 4. Циклы](./04-Loops)**
 - [Цикл while](04-Loops/01_while_loop.ipynb)
@@ -185,6 +201,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Перебор коллекций](04-Loops/05_looping_collections.ipynb)
 - [Упражнения](./04-Loops/06_exercises.ipynb)
 - [Решения](./04-Loops/07_solutions.ipynb)
+- [Проектные задания](./04-Loops/project_tasks.md)
 
 **[Модуль 5. Методы и функции](./05-Methods_and_functions/)**
 - [Определение и вызов функций](./05-Methods_and_functions/01_define_and_call_functions.ipynb)
@@ -197,6 +214,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Решение проекта «Оценки»](./05-Methods_and_functions/08_milestone_project_grade_solution.ipynb)
 - [Проект «Калькулятор»](./05-Methods_and_functions/09_milestone_project_calculator.ipynb)
 - [Решение проекта «Калькулятор»](./05-Methods_and_functions/10_milestone_project_calculator_solution.ipynb)
+- [Проектные задания](./05-Methods_and_functions/project_tasks.md)
 
 **[Модуль 6. Объектно-ориентированное программирование](./06-Object_oriented_programming/)**
 - [Введение в ООП](./06-Object_oriented_programming/01_introduction_to_OOP.ipynb)
@@ -208,6 +226,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Решения](./06-Object_oriented_programming/07_solutions.ipynb)
 - [Проект «Банк»](./06-Object_oriented_programming/08_milestone_project_bank.ipynb)
 - [Решение проекта «Банк»](./06-Object_oriented_programming/09_milestone_project_bank_solution.ipynb)
+- [Проектные задания](./06-Object_oriented_programming/project_tasks.md)
 
 **[Модуль 7. Обработка исключений](./07-Exception_handling/)**
 - [Обработка распространённых ошибок](./07-Exception_handling/01_handling_common_errors.ipynb)
@@ -216,10 +235,12 @@ IDE упрощает разработку на Python и предоставля�
 - [Возбуждение исключений](./07-Exception_handling/04_raising_exceptions.ipynb)
 - [Упражнения](./07-Exception_handling/05_exercises.ipynb)
 - [Решения](./07-Exception_handling/06_solutions.ipynb)
+- [Проектные задания](./07-Exception_handling/project_tasks.md)
 
 **[Модуль 8. Модули, пакеты и библиотеки](./08-Modules_packages_and_libraries/)**
 - [Импорт и использование модулей](./08-Modules_packages_and_libraries/01_importing_and_using_modules.ipynb)
 - [Создание и организация пакетов](./08-Modules_packages_and_libraries/02_creating_and_organizing_packages.ipynb)
+- [Проектные задания](./08-Modules_packages_and_libraries/project_tasks.md)
 
 **[Модуль 9. Работа с файлами](./09-File_manipulation/)**
 - [Чтение и запись текстовых файлов](./09-File_manipulation/01_reading_and_writing_files.ipynb)
@@ -229,6 +250,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Обработка ошибок при работе с файлами](./09-File_manipulation/05_error_handling_with_files.ipynb)
 - [Упражнения](./09-File_manipulation/06_exercises.ipynb)
 - [Решения](./09-File_manipulation/07_solutions.ipynb)
+- [Проектные задания](./09-File_manipulation/project_tasks.md)
 
 **[Модуль 10. Дополнительные модули Python](./10-Additional_Python_modules/)**
 - [Работа с датой и временем (модуль datetime)](./10-Additional_Python_modules/01_datetime_module.ipynb)
@@ -242,6 +264,7 @@ IDE упрощает разработку на Python и предоставля�
 - [Решения](./10-Additional_Python_modules/09_solutions.ipynb)
 - [Проект «Интернет-магазин»](./10-Additional_Python_modules/10_milestone_project_store.ipynb)
 - [Решение проекта «Интернет-магазин»](./10-Additional_Python_modules/11_milestone_project_store_solution.ipynb)
+- [Проектные задания](./10-Additional_Python_modules/project_tasks.md)
 
 **[Модуль 11. Продвинутые темы](./11-Advanced_concepts/)**
 - [Декораторы функций и классов](./11-Advanced_concepts/01_decorators.ipynb)
@@ -251,8 +274,10 @@ IDE упрощает разработку на Python и предоставля�
 - [Измерение времени выполнения и оптимизация кода](./11-Advanced_concepts/05_code_timming_and_optimization.ipynb)
 - [Упражнения](./11-Advanced_concepts/06_exercises.ipynb)
 - [Решения](./11-Advanced_concepts/07_solutions.ipynb)
+- [Проектные задания](./11-Advanced_concepts/project_tasks.md)
 
 **[Модуль 12. Тестирование и отладка](./12-Testing_and_debugging/)**
 - [Модульное тестирование с unittest](./12-Testing_and_debugging/01_unitest_module.ipynb)
 - [Разработка через тестирование](./12-Testing_and_debugging/02_test_driven_development.ipynb)
 - [Приёмы и стратегии отладки](./12-Testing_and_debugging/03_debugging_techniques_and_strategies.ipynb)
+- [Проектные задания](./12-Testing_and_debugging/project_tasks.md)
